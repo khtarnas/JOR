@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JOR</title>
+        <script src= "jspsych-6.1.0/jspsych.js"></script>
+        <script src="jspsych-6.1.0/plugins/jspsych-html-keyboard-response.js"></script>
+        <script src="jspsych-6.1.0/plugins/jspsych-image-keyboard-response.js"></script>
+        <script src="jsPsych-6.1.0/plugins/jspsych-survey-html-form.js"></script>
+        <script src="wordpool.js"></script>
+        <link href="jspsych-6.1.0/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+    </head>
+    <body></body>
+    <script>
+
+    //Word Pool:
+    let study_wordpool = jsPsych.randomization.sampleWithoutReplacement(wordpool, 113);
+    let test_wordpool = jsPsych.randomization.sampleWithoutReplacement(study_wordpool, 107); //only use last 75 for testing
+
+    let enter_name = {
+        type: 'survey-html-form',
+        post_trial_gap: 200,
+        response_ends_trial: true,
+        timeline: [{preamble: "<p>Please enter your name: </p>", html:'<p><input type="text" id="name" name="name" autocomplete="off" required></p>', data: {type: 'NAME'}}],
+    };
+
+    // Welcome event
+    let welcome = {
+        type: "html-keyboard-response",
+        post_trial_gap: 200,
+        stimulus: "Welcome to the <strong>Judgment of Recency</strong> experiment! <p>Press the Space Bar to see the instructions.</p>",
+        choices: [' ']
+    };
+
+    // Instructions event
+    let instructions = {
+        type: "html-keyboard-response",
+        stimulus: "<p>In this experiment, you will encounter a number of study and question cards." + 
+            "<p>The <strong>study cards</strong> will have two words on it. Take note of these words; you will" + 
+            " be asked to judge how recently you have seen them.</p>" +
+
+            "<p>The <strong>question cards</strong> will also show you two words (with a red question mark between the words to indicate" + 
+            " that it is a question card). The question card will ask you which of the two words shown have been" + 
+            " seen on a study card most recently. If a word has not been seen on a study card yet, treat the word " + 
+            "as if it occurred a very long time ago. You will indicate which word occurred most recently with the " +
+            "‘A’ key for the left word and the ‘L’ key for the right word.</p>" +
+
+            "<p>Each word will be seen only twice: once on a study card and once on a question card.</p>" +
+
+            "<p>Press the Space Bar to begin.</p>",
+        choices: [' '],
+        post_trial_gap: 1500
+    };
+
+    //First 7 are study cards, then rest alternate
+
+    let study_card = {
+        type: 'html-keyboard-response',
+        stimulus: jsPsych.timelineVariable('stimulus'),
+        choices: [' '],
+        post_trial_gap: 1000
+    }
+
+    let question_card = {
+        type: 'html-keyboard-response',
+        stimulus: '<h1>' + jsPsych.randomization.sampleWithoutReplacement(test_wordpool, 1) + ' ? ' +
+         jsPsych.randomization.sampleWithoutReplacement(test_wordpool, 1) + '</h1>',
+        choices: ['a', 'l'],
+        post_trial_gap: 1000
+    }
+
+    let study_only = {
+        timeline: [study_card],
+        timeline_variables: [{ stimulus: '<h1>' + jsPsych.randomization.sampleWithoutReplacement(study_wordpool, 1) + '</h1>' + 
+        '<h1>' + jsPsych.randomization.sampleWithoutReplacement(study_wordpool, 1) + '</h1>'}],
+        randomize_order: true,
+        repetitions: 6
+    }
+
+    let study_and_test = {
+        timeline: [study_card, question_card],
+        randomize_order: false,
+        repetitions: 107
+    }
+
+    // let test_stimuli = [
+    //   { stimulus: "img/blue.png", data: { test_part: 'test', correct_response: 'f' } },
+    //   { stimulus: "img/orange.png", data: { test_part: 'test', correct_response: 'j' } }
+    // ];
+
+    // let fixation = {
+    //     type: 'html-keyboard-response',
+    //     stimulus: '<div style="font-size:60px;">+</div>',
+    //     choices: jsPsych.NO_KEYS,
+    //     trial_duration: function(){
+    //         return jsPsych.randomization.sampleWithoutReplacement([250, 500, 750, 1000, 1250, 1500, 1750, 2000], 1)[0];
+    //     },
+    //     data: {test_part: 'fixation'}
+    // };
+
+    // let test = {
+    //     type: 'html-keyboard-response',
+    //     stimulus: jsPsych.timelineVariable('stimulus'),
+    //     choices: ['f', 'j'],
+    //     data: jsPsych.timelineVariable('data'),
+    //     on_finish: function(data){
+    //         data.correct = data.key_press == jsPsych.pluginAPI.convertKeyCharacterToKeyCode(data.correct_response);
+    //     }
+    // };
+
+    // let test_procedure = {
+    //     timeline: [fixation, test],
+    //     timeline_variables: test_stimuli,
+    //     randomize_order: true,
+    //     repetitions: 2
+    // };
+
+    // let debrief_block = {
+    //     type: "html-keyboard-response",
+    //     stimulus: function() {
+    //         let trials = jsPsych.data.get().filter({test_part: 'test'});
+    //         let correct_trials = trials.filter({correct: true});
+    //         let accuracy = Math.round(correct_trials.count() / trials.count() * 100);
+    //         let rt = Math.round(correct_trials.select('rt').mean());
+
+    //         return "<p>You responded correctly on "+accuracy+"% of the trials.</p>"+
+    //         "<p>Your average response time was "+rt+"ms.</p>"+
+    //         "<p>Press any key to complete the experiment. Thank you!</p>";
+    //     }
+    // };
+
+    // Create a timeline and add events:
+    let timeline = [];
+    timeline.push(enter_name);
+    timeline.push(welcome);
+    timeline.push(instructions);
+    timeline.push(study_only);
+    timeline.push(study_and_test);
+
+    // Call jsPsych function:
+    jsPsych.init({
+        timeline: timeline,
+        on_finish: function() {
+            jsPsych.data.displayData();
+        }
+    });
+    
+    </script>
+</html>
