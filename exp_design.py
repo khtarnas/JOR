@@ -53,7 +53,8 @@ test_order = []
 study_order = []
 
 # A counter to track which card we are currently on. We will start
-# with the first card.
+# with the first card. Only counts study cards, test cards are not
+# considered in card distance.
 counter = 1
 
 '''
@@ -81,9 +82,9 @@ def study(study_order, studiable, testable, card_num, index):
 # index on the card_num that indicates what card it appears on is zero) or if
 # there is only one item from a particular card (meaning in the card_num list
 # there is only one item with a specific number on it) then it is NOT a usable
-# word, o.w. it is. TODO: we actually do want to include SOME "many" words.
+# word, o.w. it is. TODO: we actually do want to include SOME "Many" words.
 def usable(card_num, index):
-    if (index == 0) or (card_num.count(index) == 1)
+    if (index == 0) or (card_num.count(index) == 1):
         return False
     else:
         return True
@@ -96,6 +97,8 @@ Experiment:
 for i in range(1, 7):
     study(study_order, studiable, testable, card_num, i)
     counter+= 1
+
+
 
 # PREP PERIOD (32 sets of unscored alternation between study
 # and test -- starting with study):
@@ -117,7 +120,11 @@ for i in range(counter, 32 + counter):
     #Increment counter
     counter += 1
 
-# TEST PERIOD 
+
+
+
+# TEST PERIOD (5 sets of 15 sets of scored alternation 
+# between study and test -- starting with study):
 for i in range(5): #5 different test periods 
     #Test Period (1 of 5 at a time) (scored alternation between study and test)
     for i in range(counter, 15 + counter):
@@ -125,8 +132,39 @@ for i in range(5): #5 different test periods
         study(study_order, studiable, testable, card_num, i)
 
         #Test:
-        #Plan: Nested While True loops. On each card: If a comparison exists, continue to the next card, if it doesn't try a differnt comparison.
-        #Comparisons
+        #Plan: Nested While True loops. On each card: If a comparison exists, continue to the next card, if it doesn't try a different comparison.
+        #Comparisons: 15 using 0, 2, 4, 16, 68, "Many"
+        # 0 - 2
+        # 0 - 4
+        # 0 - 16
+        # 0 - 68
+        # 0 - "Many"
+        # 2 - 4
+        # 2 - 16
+        # 2 - 68
+        # 2 - "Many"
+        # 4 - 16
+        # 4 - 68
+        # 4 - "Many"
+        # 16 - 68
+        # 16 - "Many"
+        # 68 - "Many"
 
         #Increment counter:
         counter+= 1
+
+# A helper function that determines whether a desired
+# combination of words are both available for testing.
+# The parameters are:
+# curr = the current card we are on -- just using counter as the input
+# i = the desired distance from the current card to a card that will be used for
+#     testing. (if a "many" word is input, i will equal the value of counter)
+# j = the desired distance from the current card to a card that will be used for
+#     testing. (if a "many" word is input, j will equal the value of counter)
+# testable = the list of testable words
+# card_num = the list of card numbers of which the elements indices
+#            are associated with the elements at the same index
+#            positions in the testable list.
+def available(curr, i, j, testable, card_num):
+    i = curr - i
+    j = curr - j
