@@ -1,20 +1,48 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>JOR</title>
+        <title>Judgement Of Recency Task</title>
         <script src= "jspsych-6.1.0/jspsych.js"></script>
         <script src="jspsych-6.1.0/plugins/jspsych-html-keyboard-response.js"></script>
         <script src="jspsych-6.1.0/plugins/jspsych-image-keyboard-response.js"></script>
         <script src="jsPsych-6.1.0/plugins/jspsych-survey-html-form.js"></script>
         <script src="wordpool.js"></script>
+        <script src="exp_orders.js"></script>  
         <link href="jspsych-6.1.0/css/jspsych.css" rel="stylesheet" type="text/css"></link>
     </head>
     <body></body>
     <script>
 
-    //Word Pool:
-    let study_wordpool = jsPsych.randomization.sampleWithoutReplacement(wordpool, 113);
-    let test_wordpool = jsPsych.randomization.sampleWithoutReplacement(study_wordpool, 107); //only use last 75 for testing
+    wordpool = jsPsych.randomization.repeat(wordpool, 1);
+    
+    // Trial 1 Variables
+    wordpool1 = wordpool.slice(0, 261);
+    counterbalance = Math.floor(Math.random() * 100);
+    study_order = all_study_orders[counterbalance]
+    test_order = all_test_orders[counterbalance]
+    correct_side_order = all_correct_sides[counterbalance]
+    comparison_type_order = all_comparison_type_orders[counterbalance]
+    ordered_comparison_order = all_ordered_comparison_orders[counterbalance]
+
+    // Trial 2 Variables
+    wordpool2 = wordpool.slice(261, 522);
+    counterbalance2 = 99 - counterbalance;
+    study_order2 = all_study_orders[counterbalance2]
+    test_order2 = all_test_orders[counterbalance2]
+    correct_side_order2 = all_correct_sides[counterbalance2]
+    comparison_type_order2 = all_comparison_type_orders[counterbalance2]
+    ordered_comparison_order2 = all_ordered_comparison_orders[counterbalance2]
+
+    //Time of study
+    let length = "four seconds";
+    let time = 4000; // the number of millisecond of the above string, normal value = 4000
+    let break_length = "30 seconds";
+    let break_time = 30000; // the number of milliseconds of the above string, normal value = 30,000
+    let gap = 750; // the length of the gap of time after each card is present (in milliseconds), normal value: 750
+
+/****************************************************************************************
+ ****************************** Experiment Begins ***************************************
+****************************************************************************************/
 
     let enter_name = {
         type: 'survey-html-form',
@@ -35,78 +63,342 @@
     let instructions = {
         type: "html-keyboard-response",
         stimulus: "<p>In this experiment, you will encounter a number of study and question cards." + 
-            "<p>The <strong>study cards</strong> will have two words on it. Take note of these words; you will" + 
-            " be asked to judge how recently you have seen them.</p>" +
+                "<p>The <strong>study cards</strong> will have two words on them. Take note of these words; you will" + 
+                " be asked to judge how recently you have seen them. You will have " + length + " to look at each study card." + "</p>" +
 
-            "<p>The <strong>question cards</strong> will also show you two words (with a red question mark between the words to indicate" + 
-            " that it is a question card). The question card will ask you which of the two words shown have been" + 
-            " seen on a study card most recently. If a word has not been seen on a study card yet, treat the word " + 
-            "as if it occurred a very long time ago. You will indicate which word occurred most recently with the " +
-            "‘A’ key for the left word and the ‘L’ key for the right word.</p>" +
+                "<p>The <strong>question cards</strong> will also show you two words (with a red question mark between the words to show" + 
+                " that it is a question card). When you encounter a question card, indicate which of the two words shown have been" + 
+                " seen on a study card most recently. If a word has not been seen on a study card yet, treat the word " + 
+                "as if it occurred a very long time ago. You will indicate which word occurred most recently with the " +
+                "‘A’ key for the word on the left side and the ‘L’ key for the word on the right side (not case sensitive).</p>" +
 
-            "<p>Each word will be seen only twice: once on a study card and once on a question card.</p>" +
+                "<p>Each word will be seen at most twice: once on a study card and once on a question card.</p>" +
 
-            "<p>Press the Space Bar to begin.</p>",
+                "<p>There will be two trials with an optional break of " + break_length + " in between.</p>" +
+
+                "<p>Press the Space Bar to continue to Trial 1.</p>",
         choices: [' '],
-        post_trial_gap: 1500
-    };
-
-
-
-
-
-
-
-
-
-
-    //TODO: WORKING ON THIS SECTION:
-
-    //First 7 are study cards, then rest alternate
-    let study_card = {
-        type: 'html-keyboard-response',
-        stimulus: jsPsych.timelineVariable('stimulus'),
-        choices: [' '],
-        post_trial_gap: 1000
-    }
-
-    let question_card = {
-        type: 'html-keyboard-response',
-        stimulus: '<h1>' + jsPsych.randomization.sampleWithoutReplacement(test_wordpool, 1) + ' ? ' +
-         jsPsych.randomization.sampleWithoutReplacement(test_wordpool, 1) + '</h1>',
-        choices: ['a', 'l'],
-        post_trial_gap: 1000
-    }
-
-    let study_only = {
-        timeline: [study_card],
-        timeline_variables: [{ stimulus: '<h1>' + jsPsych.randomization.sampleWithoutReplacement(study_wordpool, 1) + '</h1>' + 
-        '<h1>' + jsPsych.randomization.sampleWithoutReplacement(study_wordpool, 1) + '</h1>'}],
-        randomize_order: true,
-        repetitions: 6
-    }
-
-    let study_and_test = {
-        timeline: [study_card, question_card],
-        randomize_order: false,
-        repetitions: 107
-    }
+        post_trial_gap: 200
+        };
 
     // Create a timeline and add events:
     let timeline = [];
     timeline.push(enter_name);
     timeline.push(welcome);
     timeline.push(instructions);
-    timeline.push(study_only);
-    timeline.push(study_and_test);
+
+/****************************************************************************************
+ ****************************** Trial 1 Begins ******************************************
+****************************************************************************************/
+
+    // Trial 1 Label
+    let trial_one = {
+        type: "html-keyboard-response",
+        stimulus: "<p>To begin <strong> Trial 1 </strong> press the Space Bar</p>",
+        choices: [' '],
+        post_trial_gap: gap
+    };
+    timeline.push(trial_one);
+
+    //First 6 are study cards, then rest alternate
+    for (let i = 0; i < 6; i++) { 
+
+        // Grab two words to be studied in the right order
+        let one = study_order.shift();
+        one = wordpool1[one];
+        let two = study_order.shift();
+        two = wordpool1[two];
+
+        // Create a study event and add it to the timeline
+        let study_card = {
+            trial: 1,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px">' + one + '</h1>' +
+            '<h1 style="font-size: 35px; margin-top: 45px;">' + two + '</h1>',
+            choices: jsPsych.NO_KEYS,
+            trial_duration: time,
+            post_trial_gap: gap,
+            data: {left_word_study: one,
+                right_word_study: two
+            }
+        }
+        timeline.push(study_card)
+    }
+
+    // Prep Period: alternate study and test for the next 32 trials (no special comparisons or correct answers):
+    for (let i = 0; i < 32; i++) {
+
+        // Grab two words to be studied in the right order
+        let one = study_order.shift();
+        one = wordpool1[one];
+        let two = study_order.shift();
+        two = wordpool1[two];
+
+        // Create a study event and add it to the timeline
+        let study_card = {
+            trial: 1,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px">' + one + '</h1>' +
+            '<h1 style="font-size: 35px; margin-top: 45px;">' + two + '</h1>',
+            choices: jsPsych.NO_KEYS,
+            trial_duration: time,
+            post_trial_gap: gap,
+            data: {left_word_study: one,
+                right_word_study: two
+            }
+        }
+        timeline.push(study_card)
+
+        // Grab two words to be tested in the right order
+        one = test_order.shift();
+        one = wordpool1[one];
+        two = test_order.shift();
+        two = wordpool1[two];
+
+        let prep_question_card = {
+            trial: 1,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px;">' + one + 
+            '<span style="color: #ff0000; padding-left: 50px; padding-right: 50px;"> ? </span>' +
+            two + '</h1>',
+            choices: ['a', 'l'],
+            post_trial_gap: gap,
+            data: {left_word_test: one,
+                right_word_test: two
+            }
+        }
+        timeline.push(prep_question_card)
+    }
+
+    // Test Period: alternate study and test for the final 75 trials:
+    for (let i = 0; i < 75; i++) {
+
+        // Grab two words to be studied in the right order
+        let one = study_order.shift();
+        one = wordpool1[one];
+        let two = study_order.shift();
+        two = wordpool1[two];
+
+        // Create a study event and add it to the timeline
+        let study_card = {
+            trial: 1,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px">' + one + '</h1>' +
+            '<h1 style="font-size: 35px; margin-top: 45px;">' + two + '</h1>',
+            choices: jsPsych.NO_KEYS,
+            trial_duration: time,
+            post_trial_gap: gap,
+            data: {left_word_study: one,
+                right_word_study: two
+            }
+        }
+        timeline.push(study_card)
+
+        // Grab two words to be tested in the right order
+        one = test_order.shift();
+        one = wordpool1[one];
+        two = test_order.shift();
+        two = wordpool1[two];
+
+        // Grab the comparison type and correct answer side:
+        comp = comparison_type_order.shift();
+        side = correct_side_order.shift();
+        ordered_comp = ordered_comparison_order.shift();
+        first_comp = ordered_comp[0]
+        second_comp = ordered_comp[1]
+
+        let test_question_card = {
+            trial: 1,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px;">' + one + 
+            '<span style="color: #ff0000; padding-left: 50px; padding-right: 50px;"> ? </span>' +
+            two + '</h1>',
+            choices: ['a', 'l'],
+            post_trial_gap: gap,
+            data: {comparison_type: comp,
+                left_word_test: one,
+                right_word_test: two,
+                left_comp_type: first_comp,
+                right_comp_type: second_comp,
+                correct_side: side
+            },
+            on_finish: function(data) {
+                if (jsPsych.pluginAPI.compareKeys(data.key_press, 65)){
+                    data.chosen_side = 0;
+                } else if (jsPsych.pluginAPI.compareKeys(data.key_press, 76)) {
+                    data.chosen_side = 1; 
+                } else {
+                    data.chosen_side = null;
+                }
+            }
+        };
+        timeline.push(test_question_card)
+    }
+
+/****************************************************************************************
+ ****************************** Trial 2 Begins ******************************************
+****************************************************************************************/
+
+    // Trial 2 Label
+    let trial_two = {
+        type: "html-keyboard-response",
+        stimulus: "<p>Congratulations on completing the first trial!</p>" + 
+            "<p><strong>Trial 2 will automatically begin in 30 seconds</strong>.</p>" +
+            "<p>To begin immediately, press the Space Bar.</p>",
+        trial_duration: break_time,
+        choices: [' '],
+        post_trial_gap: gap
+    };
+    timeline.push(trial_two);
+
+    //First 6 are study cards, then rest alternate
+    for (let i = 0; i < 6; i++) { 
+
+        // Grab two words to be studied in the right order
+        let one = study_order2.shift();
+        one = wordpool2[one];
+        let two = study_order2.shift();
+        two = wordpool2[two];
+
+        // Create a study event and add it to the timeline
+        let study_card = {
+            trial: 2,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px">' + one + '</h1>' +
+            '<h1 style="font-size: 35px; margin-top: 45px;">' + two + '</h1>',
+            choices: jsPsych.NO_KEYS,
+            trial_duration: time,
+            post_trial_gap: gap,
+            data: {left_word_study: one,
+                right_word_study: two
+            }
+        }
+        timeline.push(study_card)
+    }
+
+    // Prep Period: alternate study and test for the next 32 trials (no special comparisons or correct answers):
+    for (let i = 0; i < 32; i++) {
+
+        // Grab two words to be studied in the right order
+        let one = study_order2.shift();
+        one = wordpool2[one];
+        let two = study_order2.shift();
+        two = wordpool2[two];
+
+        // Create a study event and add it to the timeline
+        let study_card = {
+            trial: 2,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px">' + one + '</h1>' +
+            '<h1 style="font-size: 35px; margin-top: 45px;">' + two + '</h1>',
+            choices: jsPsych.NO_KEYS,
+            trial_duration: time,
+            post_trial_gap: gap,
+            data: {left_word_study: one,
+                right_word_study: two
+            }
+        }
+        timeline.push(study_card)
+
+        // Grab two words to be tested in the right order
+        one = test_order2.shift();
+        one = wordpool2[one];
+        two = test_order2.shift();
+        two = wordpool2[two];
+
+        let prep_question_card = {
+            trial: 2,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px;">' + one + 
+            '<span style="color: #ff0000; padding-left: 50px; padding-right: 50px;"> ? </span>' +
+            two + '</h1>',
+            choices: ['a', 'l'],
+            post_trial_gap: gap,
+            data: {left_word_test: one,
+                right_word_test: two
+            }
+        }
+        timeline.push(prep_question_card)
+    }
+
+    // Test Period: alternate study and test for the final 75 trials:
+    for (let i = 0; i < 75; i++) {
+
+        // Grab two words to be studied in the right order
+        let one = study_order2.shift();
+        one = wordpool2[one];
+        let two = study_order2.shift();
+        two = wordpool2[two];
+
+        // Create a study event and add it to the timeline
+        let study_card = {
+            trial: 2,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px">' + one + '</h1>' +
+            '<h1 style="font-size: 35px; margin-top: 45px;">' + two + '</h1>',
+            choices: jsPsych.NO_KEYS,
+            trial_duration: time,
+            post_trial_gap: gap,
+            data: {left_word_study: one,
+                right_word_study: two
+            }
+        }
+        timeline.push(study_card)
+
+        // Grab two words to be tested in the right order
+        one = test_order2.shift();
+        one = wordpool2[one];
+        two = test_order2.shift();
+        two = wordpool2[two];
+
+        // Grab the comparison type and correct answer side:
+        comp = comparison_type_order2.shift();
+        side = correct_side_order2.shift();
+        ordered_comp = ordered_comparison_order2.shift();
+        first_comp = ordered_comp[0]
+        second_comp = ordered_comp[1]
+
+        let test_question_card = {
+            trial: 2,
+            type: 'html-keyboard-response',
+            stimulus: '<h1 style="font-size: 35px;">' + one + 
+            '<span style="color: #ff0000; padding-left: 50px; padding-right: 50px;"> ? </span>' +
+            two + '</h1>',
+            choices: ['a', 'l'],
+            post_trial_gap: gap,
+            data: {comparison_type: comp,
+                left_word_test: one,
+                right_word_test: two,
+                left_comp_type: first_comp,
+                right_comp_type: second_comp,
+                correct_side: side
+            },
+            on_finish: function(data) {
+                if (jsPsych.pluginAPI.compareKeys(data.key_press, 65)){
+                    data.chosen_side = 0;
+                } else if (jsPsych.pluginAPI.compareKeys(data.key_press, 76)) {
+                    data.chosen_side = 1; 
+                } else {
+                    data.chosen_side = null;
+                }
+            }
+        };
+        timeline.push(test_question_card)
+    }
+
+/****************************************************************************************
+ ***************************** Experiment Finished **************************************
+****************************************************************************************/
 
     // Call jsPsych function:
     jsPsych.init({
         timeline: timeline,
         on_finish: function() {
             jsPsych.data.displayData();
+            //TODO: localSave TEMPORARY
+            jsPsych.data.get().localSave('csv','mydata.csv');
         }
     });
-    
+
     </script>
 </html>
