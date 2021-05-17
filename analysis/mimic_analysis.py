@@ -14,7 +14,7 @@ from db_conversion import df
 comparisons = [(0, 2), (0, 4), (0, 16), (0, 68), (0, "many"), (2, 4), (2, 16), (2, 68), (2, "many"), (4, 16), (4, 68), (4, "many"), (16, 68), (16, "many"), (68, "many")]
 distances = [0, 2, 4, 16, 68, 'many']
 # For different graph look reverse distances list (make sure to alter elif statment in graph_for_distance func)
-#distances.reverse()
+distances.reverse()
 
 def average_for_comp(df, comp):
     ordered = df[df['left_comp_type'] == comp[0]]
