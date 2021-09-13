@@ -1,4 +1,4 @@
-#**Project Description**
+# **Project Description**
 
 A project done for my work in the Computational Memory Lab in the summer of 2021. 
 Every version _base_ exists in this repository. 
