@@ -1,0 +1,2047 @@
+2021-05-20 14:50:39,193 Scheduler started
+2021-05-20 14:50:39,278 Scheduler started
+2021-05-20 14:50:39,309 Scheduler started
+2021-05-20 14:50:39,379 Scheduler started
+2021-05-20 14:50:39,382 Scheduler started
+2021-05-20 14:50:39,415 Scheduler started
+2021-05-20 14:50:39,481 Scheduler started
+2021-05-20 14:50:39,496 Scheduler started
+2021-05-20 14:50:39,526 Scheduler started
+[2021-05-20 17:08:48 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:46539)
+2021-05-20 17:09:03,346 Scheduler started
+[2021-05-20 18:05:03 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:46541)
+2021-05-20 18:05:04,423 Scheduler started
+[2021-05-20 18:07:34 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:46544)
+2021-05-20 18:07:35,467 Scheduler started
+[2021-05-20 19:15:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:46542)
+2021-05-20 19:15:29,458 Scheduler started
+[2021-05-20 19:51:52 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:46547)
+2021-05-20 19:51:53,433 Scheduler started
+[2021-05-20 19:55:30 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:46543)
+2021-05-20 19:55:31,413 Scheduler started
+[2021-05-20 20:32:20 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:46545)
+2021-05-20 20:32:21,427 Scheduler started
+[2021-05-20 20:45:58 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:46546)
+2021-05-20 20:45:59,415 Scheduler started
+[2021-05-20 20:51:03 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:46548)
+2021-05-20 20:51:04,389 Scheduler started
+[2021-05-20 20:58:49 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:55610)
+[2021-05-20 20:58:49 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:57800)
+[2021-05-20 20:58:49 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58053)
+2021-05-20 20:58:50,462 Scheduler started
+2021-05-20 20:58:50,555 Scheduler started
+2021-05-20 20:58:50,555 Scheduler started
+[2021-05-20 22:05:20 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:57550)
+2021-05-20 22:05:21,675 Scheduler started
+[2021-05-20 23:30:43 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:57607)
+2021-05-20 23:30:44,508 Scheduler started
+[2021-05-21 00:29:02 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:57672)
+2021-05-21 00:29:17,974 Scheduler started
+[2021-05-21 00:34:52 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:57747)
+2021-05-21 00:34:53,375 Scheduler started
+[2021-05-21 01:57:41 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:57871)
+2021-05-21 01:57:42,496 Scheduler started
+[2021-05-21 02:02:07 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58004)
+2021-05-21 02:02:08,373 Scheduler started
+[2021-05-21 04:02:58 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58126)
+2021-05-21 04:03:07,836 Scheduler started
+[2021-05-21 04:13:27 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58130)
+2021-05-21 04:13:28,375 Scheduler started
+[2021-05-21 04:33:45 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58131)
+2021-05-21 04:33:46,366 Scheduler started
+[2021-05-21 04:44:01 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58272)
+2021-05-21 04:44:02,364 Scheduler started
+[2021-05-21 04:55:05 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58451)
+2021-05-21 04:55:06,360 Scheduler started
+[2021-05-21 05:13:58 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58510)
+2021-05-21 05:13:59,361 Scheduler started
+[2021-05-21 06:01:45 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58579)
+2021-05-21 06:01:46,376 Scheduler started
+[2021-05-21 06:05:12 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58646)
+2021-05-21 06:05:13,350 Scheduler started
+[2021-05-21 06:37:02 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58833)
+2021-05-21 06:37:11,220 Scheduler started
+[2021-05-21 07:00:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:58910)
+2021-05-21 07:00:29,434 Scheduler started
+[2021-05-21 07:02:48 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59021)
+2021-05-21 07:02:49,335 Scheduler started
+[2021-05-21 08:56:31 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59096)
+2021-05-21 08:56:32,490 Scheduler started
+[2021-05-21 08:59:47 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59149)
+2021-05-21 08:59:48,328 Scheduler started
+[2021-05-21 09:25:41 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59213)
+2021-05-21 09:25:42,342 Scheduler started
+[2021-05-21 10:00:43 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59266)
+2021-05-21 10:00:59,186 Scheduler started
+[2021-05-21 10:22:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59327)
+[2021-05-21 10:22:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59392)
+[2021-05-21 10:22:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59458)
+[2021-05-21 10:22:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59534)
+[2021-05-21 10:22:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59587)
+[2021-05-21 10:22:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59652)
+[2021-05-21 10:22:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59832)
+[2021-05-21 10:22:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:59964)
+[2021-05-21 10:22:28 -0400] [46538] [CRITICAL] WORKER TIMEOUT (pid:62320)
+2021-05-21 10:22:45,384 Scheduler started
+2021-05-21 10:22:45,535 Scheduler started
+2021-05-21 10:22:45,617 Scheduler started
+2021-05-21 10:22:45,740 Scheduler started
+2021-05-21 10:22:45,759 Scheduler started
+2021-05-21 10:22:45,762 Scheduler started
+2021-05-21 10:22:45,796 Scheduler started
+2021-05-21 10:22:45,797 Scheduler started
+2021-05-21 10:22:45,862 Scheduler started
+2021-05-24 11:45:14,822 Scheduler started
+2021-05-24 11:45:14,822 Scheduler started
+2021-05-24 11:45:14,822 Scheduler started
+2021-05-24 11:45:14,823 Scheduler started
+2021-05-24 11:45:14,824 Scheduler started
+2021-05-24 11:45:14,824 Scheduler started
+2021-05-24 11:45:14,824 Scheduler started
+2021-05-24 11:45:14,825 Scheduler started
+2021-05-24 11:45:14,823 Scheduler started
+[2021-05-24 17:38:25 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:11938)
+2021-05-24 17:38:26,486 Scheduler started
+[2021-05-24 18:11:05 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:11939)
+2021-05-24 18:11:06,328 Scheduler started
+[2021-05-24 19:37:59 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:11942)
+2021-05-24 19:38:00,278 Scheduler started
+[2021-05-24 20:17:36 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:11943)
+2021-05-24 20:17:37,267 Scheduler started
+[2021-05-24 20:49:01 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:11940)
+2021-05-24 20:49:02,223 Scheduler started
+[2021-05-24 20:52:03 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:11941)
+2021-05-24 20:52:04,225 Scheduler started
+[2021-05-24 21:22:01 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:11944)
+2021-05-24 21:22:02,227 Scheduler started
+[2021-05-24 22:00:41 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:11945)
+2021-05-24 22:00:42,333 Scheduler started
+[2021-05-24 22:44:55 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:11946)
+2021-05-24 22:44:56,220 Scheduler started
+[2021-05-24 22:46:47 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:31885)
+2021-05-24 22:46:48,178 Scheduler started
+[2021-05-24 23:41:45 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:33805)
+[2021-05-24 23:41:45 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36025)
+2021-05-24 23:41:46,377 Scheduler started
+2021-05-24 23:41:46,384 Scheduler started
+[2021-05-25 00:04:37 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:35814)
+2021-05-25 00:04:48,933 Scheduler started
+[2021-05-25 00:28:14 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:35886)
+2021-05-25 00:28:25,303 Scheduler started
+[2021-05-25 00:30:38 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36082)
+2021-05-25 00:30:49,259 Scheduler started
+[2021-05-25 00:53:56 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36151)
+[2021-05-25 00:53:56 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36688)
+2021-05-25 00:53:57,263 Scheduler started
+2021-05-25 00:53:57,302 Scheduler started
+[2021-05-25 01:00:04 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36233)
+2021-05-25 01:00:05,182 Scheduler started
+[2021-05-25 01:06:16 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36412)
+2021-05-25 01:06:17,212 Scheduler started
+[2021-05-25 01:35:28 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36551)
+2021-05-25 01:35:29,302 Scheduler started
+[2021-05-25 02:46:52 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36627)
+2021-05-25 02:46:53,298 Scheduler started
+[2021-05-25 03:49:48 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36628)
+2021-05-25 03:49:49,251 Scheduler started
+[2021-05-25 04:00:00 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36755)
+2021-05-25 04:00:12,000 Scheduler started
+[2021-05-25 04:01:51 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36842)
+2021-05-25 04:01:52,227 Scheduler started
+[2021-05-25 04:18:07 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36905)
+[2021-05-25 04:18:07 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37048)
+[2021-05-25 04:18:07 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37190)
+2021-05-25 04:18:17,671 Scheduler started
+2021-05-25 04:18:17,975 Scheduler started
+2021-05-25 04:18:17,992 Scheduler started
+[2021-05-25 04:56:12 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36907)
+2021-05-25 04:56:13,239 Scheduler started
+[2021-05-25 05:33:28 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:36963)
+2021-05-25 05:33:29,266 Scheduler started
+[2021-05-25 05:37:36 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37121)
+2021-05-25 05:37:37,198 Scheduler started
+[2021-05-25 06:24:35 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37260)
+2021-05-25 06:24:36,275 Scheduler started
+[2021-05-25 06:56:02 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37386)
+2021-05-25 06:56:03,304 Scheduler started
+[2021-05-25 06:57:52 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37454)
+2021-05-25 06:57:53,225 Scheduler started
+[2021-05-25 07:48:20 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37527)
+2021-05-25 07:48:21,289 Scheduler started
+[2021-05-25 08:02:07 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37533)
+2021-05-25 08:02:08,367 Scheduler started
+[2021-05-25 08:03:57 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37534)
+2021-05-25 08:03:58,273 Scheduler started
+[2021-05-25 09:11:35 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37606)
+2021-05-25 09:11:36,314 Scheduler started
+[2021-05-25 16:25:14 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37666)
+2021-05-25 16:25:26,619 Scheduler started
+[2021-05-25 17:23:41 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37916)
+2021-05-25 17:23:41,934 Scheduler started
+[2021-05-25 18:15:38 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:37988)
+2021-05-25 18:15:38,982 Scheduler started
+[2021-05-25 18:36:36 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:38058)
+2021-05-25 18:36:36,964 Scheduler started
+[2021-05-25 18:45:28 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:38115)
+2021-05-25 18:45:28,917 Scheduler started
+[2021-05-25 19:22:38 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:38201)
+2021-05-25 19:22:50,166 Scheduler started
+[2021-05-25 19:26:22 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:38278)
+2021-05-25 19:26:22,937 Scheduler started
+[2021-05-25 19:29:42 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:38349)
+2021-05-25 19:29:42,934 Scheduler started
+[2021-05-25 20:09:31 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:38411)
+[2021-05-25 20:09:31 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:71901)
+[2021-05-25 20:09:31 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:71966)
+2021-05-25 20:09:32,065 Scheduler started
+2021-05-25 20:09:32,065 Scheduler started
+2021-05-25 20:09:32,072 Scheduler started
+[2021-05-25 20:11:13 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:68835)
+2021-05-25 20:11:13,913 Scheduler started
+[2021-05-25 20:40:59 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:71577)
+2021-05-25 20:41:11,288 Scheduler started
+[2021-05-25 20:49:54 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:71638)
+2021-05-25 20:49:54,899 Scheduler started
+[2021-05-25 21:22:57 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:71765)
+2021-05-25 21:22:57,914 Scheduler started
+[2021-05-25 21:42:55 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:71829)
+2021-05-25 21:42:55,899 Scheduler started
+[2021-05-25 22:01:11 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72038)
+[2021-05-25 22:01:11 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72305)
+2021-05-25 22:01:11,941 Scheduler started
+2021-05-25 22:01:11,973 Scheduler started
+[2021-05-25 23:41:57 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72106)
+2021-05-25 23:41:58,058 Scheduler started
+[2021-05-25 23:52:03 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72107)
+2021-05-25 23:52:03,924 Scheduler started
+[2021-05-25 23:53:54 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72108)
+[2021-05-25 23:53:54 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72694)
+2021-05-25 23:53:54,958 Scheduler started
+2021-05-25 23:53:55,052 Scheduler started
+[2021-05-25 23:55:44 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72185)
+2021-05-25 23:55:57,082 Scheduler started
+[2021-05-26 00:12:35 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72256)
+2021-05-26 00:12:47,796 Scheduler started
+[2021-05-26 00:23:44 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72381)
+2021-05-26 00:23:44,970 Scheduler started
+[2021-05-26 02:24:43 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72627)
+2021-05-26 02:24:44,054 Scheduler started
+[2021-05-26 02:49:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72693)
+[2021-05-26 02:49:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72757)
+[2021-05-26 02:49:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72828)
+[2021-05-26 02:49:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72891)
+[2021-05-26 02:49:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72897)
+[2021-05-26 02:49:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:72973)
+[2021-05-26 02:49:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73037)
+[2021-05-26 02:49:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73109)
+[2021-05-26 02:49:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73173)
+2021-05-26 02:49:47,845 Scheduler started
+2021-05-26 02:49:47,924 Scheduler started
+2021-05-26 02:49:47,984 Scheduler started
+2021-05-26 02:49:48,009 Scheduler started
+2021-05-26 02:49:48,036 Scheduler started
+2021-05-26 02:49:48,063 Scheduler started
+2021-05-26 02:49:48,074 Scheduler started
+2021-05-26 02:49:48,102 Scheduler started
+2021-05-26 02:49:48,121 Scheduler started
+[2021-05-26 02:55:10 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73359)
+2021-05-26 02:55:10,873 Scheduler started
+[2021-05-26 03:17:41 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73360)
+2021-05-26 03:17:41,889 Scheduler started
+[2021-05-26 03:34:45 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73361)
+2021-05-26 03:34:45,887 Scheduler started
+[2021-05-26 04:02:01 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73362)
+[2021-05-26 04:02:01 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73366)
+[2021-05-26 04:02:01 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73367)
+[2021-05-26 04:02:01 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73434)
+[2021-05-26 04:02:01 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73506)
+[2021-05-26 04:02:01 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73571)
+2021-05-26 04:02:15,032 Scheduler started
+2021-05-26 04:02:15,119 Scheduler started
+2021-05-26 04:02:15,163 Scheduler started
+2021-05-26 04:02:15,216 Scheduler started
+2021-05-26 04:02:15,247 Scheduler started
+2021-05-26 04:02:15,257 Scheduler started
+[2021-05-26 04:28:49 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73363)
+2021-05-26 04:28:49,895 Scheduler started
+[2021-05-26 04:34:21 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73364)
+2021-05-26 04:34:21,891 Scheduler started
+[2021-05-26 04:45:59 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73365)
+2021-05-26 04:45:59,895 Scheduler started
+[2021-05-26 04:53:58 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73674)
+[2021-05-26 04:53:58 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73726)
+[2021-05-26 04:53:58 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73945)
+2021-05-26 04:53:58,975 Scheduler started
+2021-05-26 04:53:59,010 Scheduler started
+2021-05-26 04:53:59,029 Scheduler started
+[2021-05-26 06:00:46 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73680)
+2021-05-26 06:00:47,118 Scheduler started
+[2021-05-26 06:24:07 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73681)
+2021-05-26 06:24:07,976 Scheduler started
+[2021-05-26 07:38:18 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73682)
+2021-05-26 07:38:18,928 Scheduler started
+[2021-05-26 07:59:49 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73683)
+2021-05-26 07:59:49,929 Scheduler started
+[2021-05-26 08:27:48 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73684)
+[2021-05-26 08:27:48 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:74414)
+2021-05-26 08:27:49,054 Scheduler started
+2021-05-26 08:27:49,068 Scheduler started
+[2021-05-26 08:30:36 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73801)
+2021-05-26 08:30:36,893 Scheduler started
+[2021-05-26 09:24:30 -0400] [11936] [CRITICAL] WORKER TIMEOUT (pid:73998)
+2021-05-26 09:24:31,025 Scheduler started
+2021-05-26 14:13:13,598 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: assignments
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/experiment.py", line 337, in advertisement
+    nrecords = Participant.query.\
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3803, in count
+    return self.from_self(col).scalar()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: assignments
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT assignments.uniqueid AS assignments_uniqueid, assignments.assignmentid AS assignments_assignmentid, assignments.workerid AS assignments_workerid, assignments.hitid AS assignments_hitid, assignments.ipaddress AS assignments_ipaddress, assignments.browser AS assignments_browser, assignments.platform AS assignments_platform, assignments.language AS assignments_language, assignments.cond AS assignments_cond, assignments.counterbalance AS assignments_counterbalance, assignments.codeversion AS assignments_codeversion, assignments.beginhit AS assignments_beginhit, assignments.beginexp AS assignments_beginexp, assignments.endhit AS assignments_endhit, assignments.bonus AS assignments_bonus, assignments.status AS assignments_status, assignments.mode AS assignments_mode 
+FROM assignments 
+WHERE assignments.assignmentid != ? AND assignments.workerid = ?) AS anon_1]
+[parameters: ('debug5EZC2L', 'debugOBADV0')]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-05-26 14:13:35,409 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: assignments
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/experiment.py", line 337, in advertisement
+    nrecords = Participant.query.\
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3803, in count
+    return self.from_self(col).scalar()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: assignments
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT assignments.uniqueid AS assignments_uniqueid, assignments.assignmentid AS assignments_assignmentid, assignments.workerid AS assignments_workerid, assignments.hitid AS assignments_hitid, assignments.ipaddress AS assignments_ipaddress, assignments.browser AS assignments_browser, assignments.platform AS assignments_platform, assignments.language AS assignments_language, assignments.cond AS assignments_cond, assignments.counterbalance AS assignments_counterbalance, assignments.codeversion AS assignments_codeversion, assignments.beginhit AS assignments_beginhit, assignments.beginexp AS assignments_beginexp, assignments.endhit AS assignments_endhit, assignments.bonus AS assignments_bonus, assignments.status AS assignments_status, assignments.mode AS assignments_mode 
+FROM assignments 
+WHERE assignments.assignmentid != ? AND assignments.workerid = ?) AS anon_1]
+[parameters: ('debug15VNE7', 'debugH8VY77')]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-05-26 14:13:37,972 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: assignments
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/experiment.py", line 337, in advertisement
+    nrecords = Participant.query.\
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3803, in count
+    return self.from_self(col).scalar()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: assignments
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT assignments.uniqueid AS assignments_uniqueid, assignments.assignmentid AS assignments_assignmentid, assignments.workerid AS assignments_workerid, assignments.hitid AS assignments_hitid, assignments.ipaddress AS assignments_ipaddress, assignments.browser AS assignments_browser, assignments.platform AS assignments_platform, assignments.language AS assignments_language, assignments.cond AS assignments_cond, assignments.counterbalance AS assignments_counterbalance, assignments.codeversion AS assignments_codeversion, assignments.beginhit AS assignments_beginhit, assignments.beginexp AS assignments_beginexp, assignments.endhit AS assignments_endhit, assignments.bonus AS assignments_bonus, assignments.status AS assignments_status, assignments.mode AS assignments_mode 
+FROM assignments 
+WHERE assignments.assignmentid != ? AND assignments.workerid = ?) AS anon_1]
+[parameters: ('debug15VNE7', 'debugH8VY77')]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-05-26 14:14:35,037 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: assignments
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/experiment.py", line 337, in advertisement
+    nrecords = Participant.query.\
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3803, in count
+    return self.from_self(col).scalar()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: assignments
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT assignments.uniqueid AS assignments_uniqueid, assignments.assignmentid AS assignments_assignmentid, assignments.workerid AS assignments_workerid, assignments.hitid AS assignments_hitid, assignments.ipaddress AS assignments_ipaddress, assignments.browser AS assignments_browser, assignments.platform AS assignments_platform, assignments.language AS assignments_language, assignments.cond AS assignments_cond, assignments.counterbalance AS assignments_counterbalance, assignments.codeversion AS assignments_codeversion, assignments.beginhit AS assignments_beginhit, assignments.beginexp AS assignments_beginexp, assignments.endhit AS assignments_endhit, assignments.bonus AS assignments_bonus, assignments.status AS assignments_status, assignments.mode AS assignments_mode 
+FROM assignments 
+WHERE assignments.assignmentid != ? AND assignments.workerid = ?) AS anon_1]
+[parameters: ('debugBXAKXY', 'debugEZD737')]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-05-26 14:17:23,604 Scheduler started
+2021-05-26 14:17:23,644 Scheduler started
+2021-05-26 14:17:23,675 Scheduler started
+2021-05-26 14:17:23,788 Scheduler started
+[2021-05-26 14:17:23 -0400] [94754] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: table amt_hit already exists
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/gunicorn/workers/ggevent.py", line 162, in init_process
+    super().init_process()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/gunicorn/workers/base.py", line 119, in init_process
+    self.load_wsgi()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/gunicorn/workers/base.py", line 144, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/experiment_server.py", line 68, in load
+    return util.import_app("psiturk.experiment:app")
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/gunicorn/util.py", line 358, in import_app
+    mod = importlib.import_module(module)
+  File "/Users/Hokua/miniconda3/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 790, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/experiment.py", line 133, in <module>
+    init_db()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/db.py", line 33, in init_db
+    Base.metadata.create_all(bind=engine)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/schema.py", line 4664, in create_all
+    bind._run_visitor(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2095, in _run_visitor
+    conn._run_visitor(visitorcallable, element, **kwargs)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1656, in _run_visitor
+    visitorcallable(self.dialect, self, **kwargs).traverse_single(element)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/visitors.py", line 145, in traverse_single
+    return meth(obj, **kw)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/ddl.py", line 783, in visit_metadata
+    self.traverse_single(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/visitors.py", line 145, in traverse_single
+    return meth(obj, **kw)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/ddl.py", line 827, in visit_table
+    self.connection.execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/ddl.py", line 72, in _execute_on_connection
+    return connection._execute_ddl(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1068, in _execute_ddl
+    ret = self._execute_context(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) table amt_hit already exists
+[SQL: 
+CREATE TABLE amt_hit (
+	hitid VARCHAR(128) NOT NULL, 
+	PRIMARY KEY (hitid)
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-05-26 14:17:23,845 Scheduler started
+2021-05-26 14:17:23,856 Scheduler started
+2021-05-26 14:17:23,946 Scheduler started
+2021-05-26 14:17:23,979 Scheduler started
+2021-05-26 14:17:23,993 Scheduler started
+[2021-05-26 14:17:52 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94754)
+2021-05-26 14:17:53,250 Scheduler started
+[2021-05-26 17:25:47 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94756)
+2021-05-26 17:25:48,648 Scheduler started
+[2021-05-26 17:58:27 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94757)
+2021-05-26 17:58:28,655 Scheduler started
+[2021-05-26 19:29:31 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94758)
+2021-05-26 19:29:32,790 Scheduler started
+[2021-05-26 19:38:38 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94759)
+2021-05-26 19:38:39,645 Scheduler started
+[2021-05-26 19:40:28 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94760)
+2021-05-26 19:40:41,859 Scheduler started
+[2021-05-26 19:53:01 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94761)
+2021-05-26 19:53:11,142 Scheduler started
+[2021-05-26 20:17:50 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94762)
+2021-05-26 20:17:51,635 Scheduler started
+[2021-05-26 21:13:09 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94763)
+2021-05-26 21:13:10,663 Scheduler started
+[2021-05-26 21:31:47 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:94863)
+2021-05-26 21:31:48,700 Scheduler started
+[2021-05-26 22:31:59 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:5863)
+2021-05-26 22:32:00,767 Scheduler started
+[2021-05-26 23:07:35 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:5923)
+2021-05-26 23:07:36,634 Scheduler started
+[2021-05-26 23:10:27 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6055)
+2021-05-26 23:10:28,621 Scheduler started
+[2021-05-26 23:13:06 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6113)
+2021-05-26 23:13:07,618 Scheduler started
+[2021-05-26 23:51:57 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6180)
+2021-05-26 23:51:58,638 Scheduler started
+[2021-05-27 00:01:10 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6242)
+2021-05-27 00:01:24,534 Scheduler started
+[2021-05-27 00:56:05 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6293)
+2021-05-27 00:56:19,884 Scheduler started
+[2021-05-27 01:01:34 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6366)
+2021-05-27 01:01:35,608 Scheduler started
+[2021-05-27 01:18:26 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6433)
+2021-05-27 01:18:27,620 Scheduler started
+[2021-05-27 02:27:37 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6485)
+[2021-05-27 02:27:37 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6791)
+2021-05-27 02:27:38,800 Scheduler started
+2021-05-27 02:27:38,806 Scheduler started
+[2021-05-27 02:51:16 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6670)
+2021-05-27 02:51:17,621 Scheduler started
+[2021-05-27 03:12:04 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6725)
+2021-05-27 03:12:05,661 Scheduler started
+[2021-05-27 03:21:21 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6857)
+2021-05-27 03:21:22,628 Scheduler started
+[2021-05-27 03:57:48 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6902)
+2021-05-27 03:58:02,088 Scheduler started
+[2021-05-27 04:31:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:6965)
+2021-05-27 04:31:04,628 Scheduler started
+[2021-05-27 04:55:05 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7031)
+[2021-05-27 04:55:05 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7406)
+[2021-05-27 04:55:05 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7712)
+2021-05-27 04:55:06,768 Scheduler started
+2021-05-27 04:55:06,805 Scheduler started
+2021-05-27 04:55:06,848 Scheduler started
+[2021-05-27 04:57:28 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7097)
+2021-05-27 04:57:29,613 Scheduler started
+[2021-05-27 05:09:13 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7171)
+2021-05-27 05:09:14,623 Scheduler started
+[2021-05-27 06:06:52 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7172)
+2021-05-27 06:06:53,673 Scheduler started
+[2021-05-27 07:34:20 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7340)
+2021-05-27 07:34:21,818 Scheduler started
+[2021-05-27 07:47:31 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7548)
+2021-05-27 07:47:32,641 Scheduler started
+[2021-05-27 08:00:28 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7617)
+2021-05-27 08:00:29,630 Scheduler started
+[2021-05-27 08:33:20 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7780)
+2021-05-27 08:33:21,635 Scheduler started
+[2021-05-27 08:36:38 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7783)
+2021-05-27 08:36:39,633 Scheduler started
+[2021-05-27 09:06:01 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7784)
+2021-05-27 09:06:02,641 Scheduler started
+[2021-05-27 11:07:00 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7836)
+2021-05-27 11:07:16,897 Scheduler started
+[2021-05-27 11:20:35 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7887)
+2021-05-27 11:20:36,406 Scheduler started
+[2021-05-27 12:13:14 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:7960)
+2021-05-27 12:13:15,453 Scheduler started
+[2021-05-27 12:47:37 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:8123)
+2021-05-27 12:47:38,416 Scheduler started
+[2021-05-27 13:07:24 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:8194)
+2021-05-27 13:07:25,392 Scheduler started
+[2021-05-27 13:50:46 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:8250)
+2021-05-27 13:50:47,272 Scheduler started
+[2021-05-27 17:13:43 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:8303)
+2021-05-27 17:13:43,755 Scheduler started
+[2021-05-27 17:59:30 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:8377)
+2021-05-27 17:59:30,783 Scheduler started
+[2021-05-27 18:30:32 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:8439)
+2021-05-27 18:30:32,757 Scheduler started
+[2021-05-27 19:11:32 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:17833)
+2021-05-27 19:11:32,754 Scheduler started
+[2021-05-27 19:15:38 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:17882)
+2021-05-27 19:15:38,740 Scheduler started
+[2021-05-27 19:36:28 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:18021)
+2021-05-27 19:36:28,744 Scheduler started
+[2021-05-27 21:01:39 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:18117)
+2021-05-27 21:01:39,850 Scheduler started
+[2021-05-27 21:46:58 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:18172)
+2021-05-27 21:46:58,744 Scheduler started
+[2021-05-27 23:07:21 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:20731)
+2021-05-27 23:07:21,804 Scheduler started
+[2021-05-27 23:29:20 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:33462)
+2021-05-27 23:29:20,717 Scheduler started
+[2021-05-27 23:31:31 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:33522)
+2021-05-27 23:31:39,984 Scheduler started
+[2021-05-28 00:20:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:33602)
+2021-05-28 00:20:17,630 Scheduler started
+[2021-05-28 01:16:57 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:33668)
+2021-05-28 01:16:58,815 Scheduler started
+[2021-05-28 01:21:54 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:33742)
+[2021-05-28 01:21:54 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34398)
+2021-05-28 01:21:55,861 Scheduler started
+2021-05-28 01:21:55,864 Scheduler started
+[2021-05-28 01:29:21 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:33880)
+2021-05-28 01:29:22,694 Scheduler started
+[2021-05-28 01:33:51 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:33944)
+2021-05-28 01:33:52,713 Scheduler started
+[2021-05-28 03:10:45 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34125)
+2021-05-28 03:10:46,844 Scheduler started
+[2021-05-28 03:41:12 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34205)
+[2021-05-28 03:41:12 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34775)
+[2021-05-28 03:41:12 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34776)
+2021-05-28 03:41:22,124 Scheduler started
+2021-05-28 03:41:26,982 Scheduler started
+2021-05-28 03:41:27,018 Scheduler started
+[2021-05-28 03:46:28 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34265)
+2021-05-28 03:46:29,702 Scheduler started
+[2021-05-28 04:10:35 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34333)
+2021-05-28 04:10:50,311 Scheduler started
+[2021-05-28 05:05:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34481)
+[2021-05-28 05:05:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34834)
+[2021-05-28 05:05:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34900)
+[2021-05-28 05:05:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:34968)
+[2021-05-28 05:05:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35045)
+[2021-05-28 05:05:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35046)
+[2021-05-28 05:05:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35047)
+[2021-05-28 05:05:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35158)
+[2021-05-28 05:05:03 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35224)
+2021-05-28 05:05:05,699 Scheduler started
+2021-05-28 05:05:05,825 Scheduler started
+2021-05-28 05:05:05,935 Scheduler started
+2021-05-28 05:05:05,970 Scheduler started
+2021-05-28 05:05:06,038 Scheduler started
+2021-05-28 05:05:06,051 Scheduler started
+2021-05-28 05:05:06,057 Scheduler started
+2021-05-28 05:05:06,071 Scheduler started
+2021-05-28 05:05:06,099 Scheduler started
+[2021-05-28 07:05:54 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35288)
+2021-05-28 07:05:55,832 Scheduler started
+[2021-05-28 07:32:14 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35289)
+[2021-05-28 07:32:14 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35291)
+[2021-05-28 07:32:14 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35292)
+[2021-05-28 07:32:14 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35293)
+[2021-05-28 07:32:14 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35294)
+[2021-05-28 07:32:14 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35295)
+[2021-05-28 07:32:14 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35296)
+[2021-05-28 07:32:14 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35492)
+2021-05-28 07:32:29,240 Scheduler started
+2021-05-28 07:32:29,254 Scheduler started
+2021-05-28 07:32:29,642 Scheduler started
+2021-05-28 07:32:29,703 Scheduler started
+2021-05-28 07:32:29,739 Scheduler started
+2021-05-28 07:32:29,746 Scheduler started
+2021-05-28 07:32:29,753 Scheduler started
+2021-05-28 07:32:29,777 Scheduler started
+[2021-05-28 07:34:52 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35290)
+2021-05-28 07:34:53,686 Scheduler started
+[2021-05-28 08:12:11 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35555)
+2021-05-28 08:12:12,682 Scheduler started
+[2021-05-28 09:14:32 -0400] [94753] [CRITICAL] WORKER TIMEOUT (pid:35557)
+2021-05-28 09:14:33,726 Scheduler started
+2021-06-01 10:03:07,272 Scheduler started
+2021-06-01 10:03:07,272 Scheduler started
+2021-06-01 10:03:07,272 Scheduler started
+2021-06-01 10:03:07,274 Scheduler started
+2021-06-01 10:03:07,274 Scheduler started
+2021-06-01 10:03:07,276 Scheduler started
+2021-06-01 10:03:07,274 Scheduler started
+2021-06-01 10:03:07,274 Scheduler started
+2021-06-01 10:03:07,272 Scheduler started
+[2021-06-01 13:40:50 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:7051)
+2021-06-01 13:40:50,881 Scheduler started
+[2021-06-01 18:28:04 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:7052)
+2021-06-01 18:28:05,006 Scheduler started
+[2021-06-01 19:04:16 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:7054)
+2021-06-01 19:04:17,018 Scheduler started
+[2021-06-01 20:17:54 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:7055)
+2021-06-01 20:17:55,114 Scheduler started
+[2021-06-01 20:25:16 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:7056)
+2021-06-01 20:25:16,990 Scheduler started
+[2021-06-01 20:36:30 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:7057)
+2021-06-01 20:36:30,995 Scheduler started
+[2021-06-01 21:38:53 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:7059)
+2021-06-01 21:38:54,119 Scheduler started
+[2021-06-01 21:42:40 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:7058)
+2021-06-01 21:42:40,976 Scheduler started
+[2021-06-01 21:45:39 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:7060)
+2021-06-01 21:45:39,979 Scheduler started
+[2021-06-01 22:25:07 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:20531)
+2021-06-01 22:25:07,991 Scheduler started
+[2021-06-01 22:47:19 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:37831)
+2021-06-01 22:47:19,986 Scheduler started
+[2021-06-01 22:56:13 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38016)
+2021-06-01 22:56:13,982 Scheduler started
+[2021-06-02 00:01:46 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:37883)
+2021-06-02 00:01:59,088 Scheduler started
+[2021-06-02 00:08:21 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:37956)
+2021-06-02 00:08:21,998 Scheduler started
+[2021-06-02 01:07:23 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38085)
+2021-06-02 01:07:31,842 Scheduler started
+[2021-06-02 01:10:31 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38136)
+2021-06-02 01:10:31,962 Scheduler started
+[2021-06-02 03:06:04 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38311)
+2021-06-02 03:06:05,122 Scheduler started
+[2021-06-02 03:09:12 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38385)
+2021-06-02 03:09:12,979 Scheduler started
+[2021-06-02 03:23:06 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38455)
+2021-06-02 03:23:07,027 Scheduler started
+[2021-06-02 03:36:10 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38586)
+2021-06-02 03:36:22,220 Scheduler started
+[2021-06-02 03:38:01 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38646)
+2021-06-02 03:38:02,054 Scheduler started
+[2021-06-02 03:40:49 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38715)
+2021-06-02 03:40:50,002 Scheduler started
+[2021-06-02 04:51:31 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38784)
+2021-06-02 04:51:40,543 Scheduler started
+[2021-06-02 06:14:58 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:38865)
+2021-06-02 06:14:59,092 Scheduler started
+[2021-06-02 06:19:33 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:39046)
+2021-06-02 06:19:34,015 Scheduler started
+[2021-06-02 06:46:00 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:39106)
+2021-06-02 06:46:00,990 Scheduler started
+[2021-06-02 07:12:30 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:39225)
+2021-06-02 07:12:31,008 Scheduler started
+[2021-06-02 07:20:50 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:39175)
+2021-06-02 07:20:50,991 Scheduler started
+[2021-06-02 07:44:16 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:39286)
+2021-06-02 07:44:16,997 Scheduler started
+[2021-06-02 08:16:36 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:39385)
+2021-06-02 08:16:37,059 Scheduler started
+[2021-06-02 08:27:31 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:39441)
+2021-06-02 08:27:32,003 Scheduler started
+[2021-06-02 08:58:34 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:39504)
+2021-06-02 08:58:35,006 Scheduler started
+[2021-06-02 09:03:33 -0400] [7050] [CRITICAL] WORKER TIMEOUT (pid:39691)
+2021-06-02 09:03:33,995 Scheduler started
+2021-06-02 13:21:26,747 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: assignments
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/experiment.py", line 337, in advertisement
+    nrecords = Participant.query.\
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3803, in count
+    return self.from_self(col).scalar()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: assignments
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT assignments.uniqueid AS assignments_uniqueid, assignments.assignmentid AS assignments_assignmentid, assignments.workerid AS assignments_workerid, assignments.hitid AS assignments_hitid, assignments.ipaddress AS assignments_ipaddress, assignments.browser AS assignments_browser, assignments.platform AS assignments_platform, assignments.language AS assignments_language, assignments.cond AS assignments_cond, assignments.counterbalance AS assignments_counterbalance, assignments.codeversion AS assignments_codeversion, assignments.beginhit AS assignments_beginhit, assignments.beginexp AS assignments_beginexp, assignments.endhit AS assignments_endhit, assignments.bonus AS assignments_bonus, assignments.status AS assignments_status, assignments.mode AS assignments_mode 
+FROM assignments 
+WHERE assignments.assignmentid != ? AND assignments.workerid = ?) AS anon_1]
+[parameters: ('debugNG7DMG', 'debugYRJR1R')]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-06-02 13:26:13,005 Scheduler started
+2021-06-02 13:26:13,068 Scheduler started
+2021-06-02 13:26:13,070 Scheduler started
+2021-06-02 13:26:13,248 Scheduler started
+2021-06-02 13:26:13,248 Scheduler started
+2021-06-02 13:26:13,261 Scheduler started
+2021-06-02 13:26:13,265 Scheduler started
+2021-06-02 13:26:13,258 Scheduler started
+2021-06-02 13:26:13,290 Scheduler started
+[2021-06-02 17:32:29 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:58612)
+2021-06-02 17:32:43,883 Scheduler started
+[2021-06-02 18:10:56 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:58611)
+2021-06-02 18:11:08,930 Scheduler started
+[2021-06-02 19:50:42 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:58613)
+2021-06-02 19:50:43,788 Scheduler started
+[2021-06-02 20:00:39 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:58615)
+2021-06-02 20:00:40,608 Scheduler started
+[2021-06-02 20:02:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:58616)
+2021-06-02 20:02:38,641 Scheduler started
+[2021-06-02 20:58:51 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:58617)
+2021-06-02 20:58:52,627 Scheduler started
+[2021-06-02 21:17:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:58618)
+2021-06-02 21:17:32,605 Scheduler started
+[2021-06-02 21:40:20 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:58619)
+2021-06-02 21:40:21,598 Scheduler started
+[2021-06-02 22:00:32 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:58620)
+[2021-06-02 22:00:32 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74810)
+2021-06-02 22:00:33,635 Scheduler started
+2021-06-02 22:00:33,639 Scheduler started
+[2021-06-02 22:05:51 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74233)
+2021-06-02 22:05:52,599 Scheduler started
+[2021-06-02 22:31:42 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74307)
+2021-06-02 22:31:43,601 Scheduler started
+[2021-06-02 22:45:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74470)
+2021-06-02 22:45:05,585 Scheduler started
+[2021-06-03 00:46:03 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74531)
+2021-06-03 00:46:17,006 Scheduler started
+[2021-06-03 01:00:21 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74612)
+2021-06-03 01:00:22,586 Scheduler started
+[2021-06-03 01:02:11 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74682)
+2021-06-03 01:02:12,568 Scheduler started
+[2021-06-03 03:03:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74872)
+2021-06-03 03:03:03,620 Scheduler started
+[2021-06-03 03:35:24 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74934)
+2021-06-03 03:35:25,603 Scheduler started
+[2021-06-03 04:34:09 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74745)
+2021-06-03 04:34:21,953 Scheduler started
+[2021-06-03 04:41:01 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74873)
+2021-06-03 04:41:02,586 Scheduler started
+[2021-06-03 04:50:27 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75000)
+2021-06-03 04:50:28,590 Scheduler started
+[2021-06-03 04:59:19 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75200)
+2021-06-03 04:59:20,643 Scheduler started
+[2021-06-03 05:29:48 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75275)
+2021-06-03 05:29:49,585 Scheduler started
+[2021-06-03 05:32:51 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75341)
+2021-06-03 05:32:52,577 Scheduler started
+[2021-06-03 05:44:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75395)
+2021-06-03 05:45:00,584 Scheduler started
+[2021-06-03 06:03:51 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75466)
+2021-06-03 06:03:52,591 Scheduler started
+[2021-06-03 06:57:16 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75661)
+2021-06-03 06:57:17,608 Scheduler started
+[2021-06-03 07:02:22 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75761)
+2021-06-03 07:02:23,580 Scheduler started
+[2021-06-03 08:10:06 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75836)
+2021-06-03 08:10:07,664 Scheduler started
+[2021-06-03 08:40:58 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75918)
+2021-06-03 08:40:59,597 Scheduler started
+[2021-06-03 08:49:57 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76041)
+2021-06-03 08:49:58,596 Scheduler started
+[2021-06-03 09:23:40 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76107)
+2021-06-03 09:23:41,597 Scheduler started
+[2021-06-03 09:27:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76164)
+2021-06-03 09:27:03,582 Scheduler started
+[2021-06-03 09:39:12 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76232)
+2021-06-03 09:39:13,585 Scheduler started
+[2021-06-03 10:12:27 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76307)
+2021-06-03 10:12:42,636 Scheduler started
+[2021-06-03 11:17:39 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76364)
+2021-06-03 11:17:40,420 Scheduler started
+[2021-06-03 12:45:42 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76547)
+[2021-06-03 12:45:42 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:83632)
+2021-06-03 12:45:43,344 Scheduler started
+2021-06-03 12:45:43,372 Scheduler started
+[2021-06-03 13:28:24 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76616)
+[2021-06-03 13:28:24 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:88912)
+[2021-06-03 13:28:24 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:88913)
+2021-06-03 13:28:25,556 Scheduler started
+2021-06-03 13:28:25,561 Scheduler started
+2021-06-03 13:28:25,574 Scheduler started
+[2021-06-03 13:32:14 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76694)
+2021-06-03 13:32:15,113 Scheduler started
+[2021-06-03 13:37:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76770)
+[2021-06-03 13:37:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91026)
+[2021-06-03 13:37:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91028)
+[2021-06-03 13:37:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91029)
+[2021-06-03 13:37:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91106)
+2021-06-03 13:37:03,541 Scheduler started
+2021-06-03 13:37:03,549 Scheduler started
+2021-06-03 13:37:03,585 Scheduler started
+2021-06-03 13:37:03,601 Scheduler started
+2021-06-03 13:37:03,619 Scheduler started
+[2021-06-03 13:50:40 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76851)
+2021-06-03 13:50:41,118 Scheduler started
+[2021-06-03 14:13:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76918)
+[2021-06-03 14:13:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91238)
+[2021-06-03 14:13:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91240)
+[2021-06-03 14:13:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91246)
+[2021-06-03 14:13:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91247)
+[2021-06-03 14:13:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91248)
+[2021-06-03 14:13:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91314)
+2021-06-03 14:13:38,936 Scheduler started
+2021-06-03 14:13:38,993 Scheduler started
+2021-06-03 14:13:39,025 Scheduler started
+2021-06-03 14:13:39,081 Scheduler started
+2021-06-03 14:13:39,097 Scheduler started
+2021-06-03 14:13:39,109 Scheduler started
+2021-06-03 14:13:39,206 Scheduler started
+[2021-06-03 14:31:19 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76979)
+[2021-06-03 14:31:19 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91385)
+2021-06-03 14:31:20,202 Scheduler started
+2021-06-03 14:31:20,217 Scheduler started
+[2021-06-03 14:49:32 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:79574)
+2021-06-03 14:49:33,111 Scheduler started
+[2021-06-03 14:51:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91391)
+[2021-06-03 14:51:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91392)
+[2021-06-03 14:51:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91393)
+[2021-06-03 14:51:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91394)
+[2021-06-03 14:51:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91395)
+[2021-06-03 14:51:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91396)
+[2021-06-03 14:51:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91467)
+2021-06-03 14:51:32,837 Scheduler started
+2021-06-03 14:51:32,874 Scheduler started
+2021-06-03 14:51:32,877 Scheduler started
+2021-06-03 14:51:32,927 Scheduler started
+2021-06-03 14:51:32,986 Scheduler started
+2021-06-03 14:51:33,001 Scheduler started
+2021-06-03 14:51:33,028 Scheduler started
+[2021-06-03 15:34:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91468)
+[2021-06-03 15:34:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91537)
+2021-06-03 15:34:03,356 Scheduler started
+2021-06-03 15:34:03,358 Scheduler started
+[2021-06-03 15:57:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91605)
+[2021-06-03 15:57:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91607)
+[2021-06-03 15:57:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91608)
+[2021-06-03 15:57:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91609)
+[2021-06-03 15:57:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91610)
+[2021-06-03 15:57:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91611)
+2021-06-03 15:57:16,658 Scheduler started
+2021-06-03 15:57:16,674 Scheduler started
+2021-06-03 15:57:16,704 Scheduler started
+2021-06-03 15:57:16,727 Scheduler started
+2021-06-03 15:57:16,767 Scheduler started
+2021-06-03 15:57:16,806 Scheduler started
+[2021-06-03 16:11:05 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91612)
+2021-06-03 16:11:06,112 Scheduler started
+[2021-06-03 16:37:51 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91685)
+2021-06-03 16:37:52,097 Scheduler started
+[2021-06-03 17:11:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:91689)
+[2021-06-03 17:11:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92959)
+[2021-06-03 17:11:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92961)
+[2021-06-03 17:11:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92962)
+[2021-06-03 17:11:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92963)
+[2021-06-03 17:11:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92964)
+2021-06-03 17:11:35,814 Scheduler started
+2021-06-03 17:11:35,820 Scheduler started
+2021-06-03 17:11:35,827 Scheduler started
+2021-06-03 17:11:35,831 Scheduler started
+2021-06-03 17:11:35,854 Scheduler started
+2021-06-03 17:11:35,875 Scheduler started
+[2021-06-03 17:35:09 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92965)
+2021-06-03 17:35:09,914 Scheduler started
+[2021-06-03 17:40:50 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93037)
+2021-06-03 17:40:50,893 Scheduler started
+[2021-06-03 18:01:54 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93160)
+2021-06-03 18:01:54,927 Scheduler started
+[2021-06-03 18:04:05 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93105)
+2021-06-03 18:04:05,904 Scheduler started
+[2021-06-03 18:50:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93161)
+2021-06-03 18:50:04,927 Scheduler started
+[2021-06-03 18:52:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93163)
+2021-06-03 18:52:02,893 Scheduler started
+[2021-06-03 19:07:19 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93164)
+2021-06-03 19:07:19,913 Scheduler started
+[2021-06-03 19:40:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93166)
+2021-06-03 19:40:34,892 Scheduler started
+[2021-06-03 20:16:16 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93165)
+2021-06-03 20:16:16,903 Scheduler started
+[2021-06-03 20:18:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94286)
+2021-06-03 20:18:49,894 Scheduler started
+[2021-06-03 20:31:01 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94415)
+2021-06-03 20:31:01,890 Scheduler started
+[2021-06-03 21:15:17 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94357)
+2021-06-03 21:15:17,888 Scheduler started
+[2021-06-03 21:19:43 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94513)
+2021-06-03 21:19:43,883 Scheduler started
+[2021-06-03 22:07:08 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94586)
+2021-06-03 22:07:08,908 Scheduler started
+[2021-06-03 22:22:29 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94760)
+2021-06-03 22:22:29,865 Scheduler started
+[2021-06-03 23:03:23 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94828)
+2021-06-03 23:03:23,897 Scheduler started
+[2021-06-03 23:21:47 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94909)
+2021-06-03 23:21:47,877 Scheduler started
+[2021-06-04 00:16:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94970)
+2021-06-04 00:16:15,333 Scheduler started
+[2021-06-04 00:19:53 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95035)
+2021-06-04 00:19:53,866 Scheduler started
+[2021-06-04 00:23:30 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95106)
+2021-06-04 00:23:30,993 Scheduler started
+[2021-06-04 00:35:54 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95160)
+2021-06-04 00:35:54,899 Scheduler started
+[2021-06-04 00:37:45 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95306)
+2021-06-04 00:37:45,864 Scheduler started
+[2021-06-04 01:09:17 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95374)
+2021-06-04 01:09:17,880 Scheduler started
+[2021-06-04 01:17:28 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95579)
+2021-06-04 01:17:28,870 Scheduler started
+[2021-06-04 01:44:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95631)
+2021-06-04 01:44:31,891 Scheduler started
+[2021-06-04 01:51:32 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95694)
+2021-06-04 01:51:32,864 Scheduler started
+[2021-06-04 02:29:25 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95748)
+2021-06-04 02:29:25,945 Scheduler started
+[2021-06-04 03:12:13 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95820)
+2021-06-04 03:12:13,881 Scheduler started
+[2021-06-04 03:36:42 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95883)
+2021-06-04 03:36:55,277 Scheduler started
+[2021-06-04 03:39:08 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95951)
+2021-06-04 03:39:08,879 Scheduler started
+[2021-06-04 03:44:08 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96006)
+2021-06-04 03:44:08,882 Scheduler started
+[2021-06-04 04:16:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96266)
+2021-06-04 04:16:13,317 Scheduler started
+[2021-06-04 04:24:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96078)
+2021-06-04 04:24:02,873 Scheduler started
+[2021-06-04 05:16:28 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96337)
+2021-06-04 05:16:29,073 Scheduler started
+[2021-06-04 06:22:13 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96403)
+2021-06-04 06:22:13,933 Scheduler started
+[2021-06-04 06:43:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96627)
+2021-06-04 06:43:52,903 Scheduler started
+[2021-06-04 06:46:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96475)
+2021-06-04 06:46:02,888 Scheduler started
+[2021-06-04 07:08:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96542)
+2021-06-04 07:08:15,891 Scheduler started
+[2021-06-04 09:09:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96720)
+2021-06-04 09:09:05,087 Scheduler started
+[2021-06-04 09:10:39 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96853)
+2021-06-04 09:10:39,889 Scheduler started
+[2021-06-04 18:16:14 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:96932)
+2021-06-04 18:16:32,183 Scheduler started
+[2021-06-04 19:07:53 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:97126)
+2021-06-04 19:08:02,807 Scheduler started
+[2021-06-04 19:22:35 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:97198)
+2021-06-04 19:22:36,558 Scheduler started
+[2021-06-04 19:24:25 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:97261)
+2021-06-04 19:24:26,565 Scheduler started
+[2021-06-04 19:47:25 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:97339)
+2021-06-04 19:47:26,544 Scheduler started
+[2021-06-04 20:11:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:97405)
+2021-06-04 20:11:03,548 Scheduler started
+[2021-06-04 20:24:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:97466)
+2021-06-04 20:24:53,524 Scheduler started
+[2021-06-04 20:57:47 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:97531)
+2021-06-04 20:57:48,528 Scheduler started
+[2021-06-04 21:16:42 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:97723)
+2021-06-04 21:16:43,512 Scheduler started
+[2021-06-04 21:32:10 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29500)
+2021-06-04 21:32:11,515 Scheduler started
+[2021-06-04 21:35:58 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29686)
+2021-06-04 21:35:59,495 Scheduler started
+[2021-06-04 22:48:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29744)
+[2021-06-04 22:48:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30252)
+2021-06-04 22:48:05,639 Scheduler started
+2021-06-04 22:48:05,650 Scheduler started
+[2021-06-04 23:17:09 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29807)
+2021-06-04 23:17:10,513 Scheduler started
+[2021-06-04 23:26:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29880)
+2021-06-04 23:26:50,495 Scheduler started
+[2021-06-04 23:28:39 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29940)
+2021-06-04 23:28:40,492 Scheduler started
+[2021-06-05 00:23:36 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29998)
+2021-06-05 00:23:46,042 Scheduler started
+[2021-06-05 00:26:14 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30065)
+2021-06-05 00:26:15,488 Scheduler started
+[2021-06-05 00:28:19 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30320)
+2021-06-05 00:28:20,475 Scheduler started
+[2021-06-05 01:58:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30385)
+2021-06-05 01:59:08,225 Scheduler started
+[2021-06-05 02:23:36 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30452)
+2021-06-05 02:23:51,011 Scheduler started
+[2021-06-05 02:44:38 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30453)
+2021-06-05 02:44:39,499 Scheduler started
+[2021-06-05 02:52:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30527)
+2021-06-05 02:52:53,476 Scheduler started
+[2021-06-05 03:59:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30582)
+2021-06-05 03:59:46,895 Scheduler started
+[2021-06-05 04:27:33 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30649)
+2021-06-05 04:27:48,762 Scheduler started
+[2021-06-05 04:34:22 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30717)
+2021-06-05 04:34:37,718 Scheduler started
+[2021-06-05 05:01:20 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30904)
+2021-06-05 05:01:38,583 Scheduler started
+[2021-06-05 05:15:14 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30977)
+2021-06-05 05:15:30,830 Scheduler started
+[2021-06-05 06:22:27 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31041)
+2021-06-05 06:22:42,919 Scheduler started
+[2021-06-05 06:24:56 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31190)
+2021-06-05 06:25:11,576 Scheduler started
+[2021-06-05 06:29:19 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31248)
+2021-06-05 06:29:33,708 Scheduler started
+[2021-06-05 06:50:24 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31313)
+2021-06-05 06:50:40,413 Scheduler started
+[2021-06-05 06:59:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31399)
+2021-06-05 06:59:35,452 Scheduler started
+[2021-06-05 07:15:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31651)
+2021-06-05 07:15:18,140 Scheduler started
+[2021-06-05 08:02:28 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31718)
+2021-06-05 08:02:39,167 Scheduler started
+[2021-06-05 08:06:16 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31787)
+2021-06-05 08:06:17,471 Scheduler started
+[2021-06-05 08:30:27 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31846)
+2021-06-05 08:30:28,449 Scheduler started
+[2021-06-05 09:26:33 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31973)
+2021-06-05 09:26:43,179 Scheduler started
+[2021-06-05 10:04:55 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32023)
+2021-06-05 10:04:56,470 Scheduler started
+[2021-06-05 10:19:11 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32102)
+2021-06-05 10:19:12,447 Scheduler started
+[2021-06-05 10:33:07 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32158)
+2021-06-05 10:33:08,446 Scheduler started
+[2021-06-05 10:37:10 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32244)
+2021-06-05 10:37:25,888 Scheduler started
+[2021-06-05 12:15:41 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32314)
+2021-06-05 12:15:56,587 Scheduler started
+[2021-06-05 12:23:06 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32408)
+2021-06-05 12:23:07,512 Scheduler started
+[2021-06-05 12:26:17 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32758)
+2021-06-05 12:26:18,430 Scheduler started
+[2021-06-05 13:43:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32633)
+2021-06-05 13:43:53,530 Scheduler started
+[2021-06-05 14:11:58 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32704)
+2021-06-05 14:11:59,421 Scheduler started
+[2021-06-05 15:30:12 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32828)
+2021-06-05 15:30:13,597 Scheduler started
+[2021-06-05 15:34:16 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32904)
+2021-06-05 15:34:17,422 Scheduler started
+[2021-06-05 16:10:40 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32957)
+2021-06-05 16:10:41,437 Scheduler started
+[2021-06-05 16:30:05 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33020)
+2021-06-05 16:30:06,425 Scheduler started
+[2021-06-05 17:51:17 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33089)
+2021-06-05 17:51:18,553 Scheduler started
+[2021-06-05 17:59:25 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33148)
+2021-06-05 17:59:26,419 Scheduler started
+[2021-06-05 20:00:16 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33220)
+2021-06-05 20:00:17,621 Scheduler started
+[2021-06-05 20:19:38 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33273)
+2021-06-05 20:19:54,281 Scheduler started
+[2021-06-05 21:16:07 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33350)
+2021-06-05 21:16:22,422 Scheduler started
+[2021-06-05 22:22:57 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33417)
+2021-06-05 22:23:12,961 Scheduler started
+[2021-06-05 22:29:38 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33609)
+2021-06-05 22:29:39,422 Scheduler started
+[2021-06-05 23:06:45 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33673)
+2021-06-05 23:07:00,982 Scheduler started
+[2021-06-05 23:25:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33740)
+2021-06-05 23:26:13,692 Scheduler started
+[2021-06-05 23:30:32 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33808)
+2021-06-05 23:30:33,513 Scheduler started
+[2021-06-06 00:29:21 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33873)
+2021-06-06 00:29:31,665 Scheduler started
+[2021-06-06 00:34:44 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33942)
+2021-06-06 00:34:45,406 Scheduler started
+[2021-06-06 01:02:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:34624)
+2021-06-06 01:02:53,412 Scheduler started
+[2021-06-06 01:41:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:34673)
+2021-06-06 01:41:53,412 Scheduler started
+[2021-06-06 02:37:44 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:34781)
+2021-06-06 02:37:45,423 Scheduler started
+[2021-06-06 02:43:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:34854)
+2021-06-06 02:44:00,383 Scheduler started
+[2021-06-06 02:57:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:34931)
+2021-06-06 02:58:00,402 Scheduler started
+[2021-06-06 02:59:51 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:34996)
+2021-06-06 02:59:52,392 Scheduler started
+[2021-06-06 03:11:32 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35046)
+2021-06-06 03:11:33,388 Scheduler started
+[2021-06-06 03:52:47 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35119)
+2021-06-06 03:53:03,191 Scheduler started
+[2021-06-06 04:51:14 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35303)
+2021-06-06 04:51:15,416 Scheduler started
+[2021-06-06 06:13:21 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35367)
+[2021-06-06 06:13:21 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35942)
+2021-06-06 06:13:36,159 Scheduler started
+2021-06-06 06:13:36,358 Scheduler started
+[2021-06-06 07:01:37 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35425)
+2021-06-06 07:01:38,415 Scheduler started
+[2021-06-06 07:19:23 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35498)
+2021-06-06 07:19:24,388 Scheduler started
+[2021-06-06 07:21:13 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35566)
+2021-06-06 07:21:14,387 Scheduler started
+[2021-06-06 07:52:30 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35647)
+2021-06-06 07:52:39,122 Scheduler started
+[2021-06-06 08:03:11 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35700)
+2021-06-06 08:03:12,428 Scheduler started
+[2021-06-06 10:04:10 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35763)
+2021-06-06 10:04:11,492 Scheduler started
+[2021-06-06 11:58:03 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:35837)
+2021-06-06 11:58:04,572 Scheduler started
+[2021-06-06 12:26:55 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36128)
+2021-06-06 12:27:11,014 Scheduler started
+[2021-06-06 13:00:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36124)
+2021-06-06 13:00:32,408 Scheduler started
+[2021-06-06 13:03:53 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36256)
+2021-06-06 13:03:54,366 Scheduler started
+[2021-06-06 13:14:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36318)
+2021-06-06 13:14:03,368 Scheduler started
+[2021-06-06 14:28:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36386)
+2021-06-06 14:28:50,496 Scheduler started
+[2021-06-06 14:31:10 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36462)
+2021-06-06 14:31:11,434 Scheduler started
+[2021-06-06 15:20:23 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36631)
+2021-06-06 15:20:24,391 Scheduler started
+[2021-06-06 16:49:08 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36710)
+2021-06-06 16:49:09,528 Scheduler started
+[2021-06-06 16:58:01 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36786)
+2021-06-06 16:58:02,364 Scheduler started
+[2021-06-06 18:02:00 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36855)
+2021-06-06 18:02:01,414 Scheduler started
+[2021-06-06 19:36:48 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36922)
+2021-06-06 19:36:49,463 Scheduler started
+[2021-06-06 19:47:10 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:36991)
+2021-06-06 19:47:11,369 Scheduler started
+[2021-06-06 20:15:05 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37059)
+2021-06-06 20:15:06,381 Scheduler started
+[2021-06-06 21:21:56 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37134)
+2021-06-06 21:22:12,493 Scheduler started
+[2021-06-06 21:26:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37332)
+2021-06-06 21:26:50,016 Scheduler started
+[2021-06-06 22:02:56 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37402)
+2021-06-06 22:02:57,367 Scheduler started
+[2021-06-06 22:06:35 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37465)
+2021-06-06 22:06:44,658 Scheduler started
+[2021-06-06 22:34:51 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37544)
+2021-06-06 22:35:05,696 Scheduler started
+[2021-06-06 22:54:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37622)
+2021-06-06 22:55:00,439 Scheduler started
+[2021-06-06 23:08:39 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37700)
+2021-06-06 23:08:48,797 Scheduler started
+[2021-06-06 23:23:05 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37881)
+2021-06-06 23:23:06,358 Scheduler started
+[2021-06-06 23:41:57 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:37962)
+2021-06-06 23:41:58,367 Scheduler started
+[2021-06-07 00:19:48 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:38508)
+2021-06-07 00:20:04,158 Scheduler started
+[2021-06-07 01:15:14 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:38593)
+2021-06-07 01:15:15,386 Scheduler started
+[2021-06-07 01:29:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:38686)
+2021-06-07 01:29:03,361 Scheduler started
+[2021-06-07 02:04:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:38765)
+2021-06-07 02:04:16,368 Scheduler started
+[2021-06-07 02:16:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:38836)
+2021-06-07 02:17:00,366 Scheduler started
+[2021-06-07 02:28:50 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:38892)
+2021-06-07 02:28:51,353 Scheduler started
+[2021-06-07 03:37:45 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:38962)
+2021-06-07 03:37:54,099 Scheduler started
+[2021-06-07 03:44:39 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39015)
+2021-06-07 03:44:40,338 Scheduler started
+[2021-06-07 04:17:17 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39070)
+2021-06-07 04:17:32,606 Scheduler started
+[2021-06-07 04:28:12 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39157)
+2021-06-07 04:28:13,366 Scheduler started
+[2021-06-07 04:31:06 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39209)
+2021-06-07 04:31:07,352 Scheduler started
+[2021-06-07 05:05:35 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39390)
+2021-06-07 05:05:36,364 Scheduler started
+[2021-06-07 05:27:13 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39443)
+2021-06-07 05:27:14,350 Scheduler started
+[2021-06-07 06:02:26 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39518)
+2021-06-07 06:02:27,421 Scheduler started
+[2021-06-07 07:26:22 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39575)
+2021-06-07 07:26:23,503 Scheduler started
+[2021-06-07 07:34:46 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39644)
+2021-06-07 07:34:47,358 Scheduler started
+[2021-06-07 09:05:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39748)
+2021-06-07 09:05:05,484 Scheduler started
+[2021-06-07 16:22:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39831)
+2021-06-07 16:23:07,610 Scheduler started
+[2021-06-07 18:17:01 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39951)
+2021-06-07 18:17:18,864 Scheduler started
+[2021-06-07 18:53:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:39898)
+2021-06-07 18:53:49,891 Scheduler started
+[2021-06-07 19:49:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:40021)
+2021-06-07 19:49:15,925 Scheduler started
+[2021-06-07 19:52:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:40265)
+2021-06-07 19:52:02,853 Scheduler started
+[2021-06-07 19:55:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:40328)
+2021-06-07 19:55:04,858 Scheduler started
+[2021-06-07 20:12:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:40392)
+2021-06-07 20:12:04,860 Scheduler started
+[2021-06-07 20:33:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:40471)
+2021-06-07 20:33:31,866 Scheduler started
+[2021-06-07 21:12:23 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:40536)
+2021-06-07 21:12:32,154 Scheduler started
+[2021-06-07 21:55:57 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:68337)
+2021-06-07 21:56:13,425 Scheduler started
+[2021-06-07 22:12:21 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:73292)
+2021-06-07 22:12:21,850 Scheduler started
+[2021-06-07 22:22:13 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:73369)
+2021-06-07 22:22:13,813 Scheduler started
+[2021-06-07 23:34:29 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:73435)
+2021-06-07 23:34:29,894 Scheduler started
+[2021-06-07 23:41:44 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:73512)
+2021-06-07 23:41:44,832 Scheduler started
+[2021-06-08 00:55:05 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:73584)
+2021-06-08 00:55:15,544 Scheduler started
+[2021-06-08 01:12:12 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:73646)
+2021-06-08 01:12:12,942 Scheduler started
+[2021-06-08 01:41:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:73704)
+2021-06-08 01:41:59,818 Scheduler started
+[2021-06-08 03:14:55 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74259)
+2021-06-08 03:14:55,957 Scheduler started
+[2021-06-08 03:24:12 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74555)
+2021-06-08 03:24:12,815 Scheduler started
+[2021-06-08 03:26:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74623)
+2021-06-08 03:26:02,799 Scheduler started
+[2021-06-08 04:30:12 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74678)
+2021-06-08 04:30:21,207 Scheduler started
+[2021-06-08 04:42:42 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74742)
+2021-06-08 04:42:42,789 Scheduler started
+[2021-06-08 05:03:10 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74810)
+2021-06-08 05:03:10,808 Scheduler started
+[2021-06-08 05:26:09 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:74886)
+2021-06-08 05:26:09,797 Scheduler started
+[2021-06-08 05:47:19 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75077)
+2021-06-08 05:47:19,820 Scheduler started
+[2021-06-08 06:01:41 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75128)
+2021-06-08 06:01:41,812 Scheduler started
+[2021-06-08 06:09:39 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75218)
+2021-06-08 06:09:39,775 Scheduler started
+[2021-06-08 06:55:17 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75290)
+2021-06-08 06:55:17,799 Scheduler started
+[2021-06-08 06:59:51 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75343)
+2021-06-08 06:59:51,779 Scheduler started
+[2021-06-08 07:05:08 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75411)
+2021-06-08 07:05:08,785 Scheduler started
+[2021-06-08 08:09:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75647)
+2021-06-08 08:09:49,884 Scheduler started
+[2021-06-08 08:29:13 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75704)
+2021-06-08 08:29:13,769 Scheduler started
+[2021-06-08 08:58:29 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75771)
+2021-06-08 08:58:29,777 Scheduler started
+[2021-06-08 09:11:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75832)
+2021-06-08 09:11:49,772 Scheduler started
+[2021-06-09 13:10:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75894)
+[2021-06-09 13:10:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76489)
+[2021-06-09 13:10:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76556)
+[2021-06-09 13:10:02 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76621)
+2021-06-09 13:10:27,547 Scheduler started
+2021-06-09 13:10:27,547 Scheduler started
+2021-06-09 13:10:27,547 Scheduler started
+2021-06-09 13:10:27,547 Scheduler started
+[2021-06-09 13:34:43 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:75965)
+[2021-06-09 13:34:43 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:81461)
+[2021-06-09 13:34:43 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:81466)
+[2021-06-09 13:34:43 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:81467)
+[2021-06-09 13:34:43 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:81468)
+2021-06-09 13:35:04,895 Scheduler started
+2021-06-09 13:35:04,896 Scheduler started
+2021-06-09 13:35:04,944 Scheduler started
+2021-06-09 13:35:05,106 Scheduler started
+2021-06-09 13:35:05,153 Scheduler started
+[2021-06-09 15:26:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76092)
+[2021-06-09 15:26:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:81548)
+[2021-06-09 15:26:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:81550)
+[2021-06-09 15:26:52 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:81552)
+2021-06-09 15:27:15,599 Scheduler started
+2021-06-09 15:27:15,599 Scheduler started
+2021-06-09 15:27:15,599 Scheduler started
+2021-06-09 15:27:15,601 Scheduler started
+[2021-06-09 16:47:18 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76169)
+2021-06-09 16:47:19,566 Scheduler started
+[2021-06-09 17:43:09 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76237)
+2021-06-09 17:43:10,395 Scheduler started
+[2021-06-09 18:13:47 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:76309)
+2021-06-09 18:13:48,382 Scheduler started
+[2021-06-09 18:25:48 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:81545)
+2021-06-09 18:25:49,376 Scheduler started
+[2021-06-09 18:35:30 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:81549)
+2021-06-09 18:35:31,482 Scheduler started
+[2021-06-09 18:47:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:87808)
+2021-06-09 18:47:35,386 Scheduler started
+[2021-06-09 18:49:31 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:87809)
+2021-06-09 18:49:32,390 Scheduler started
+[2021-06-09 19:48:05 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:87810)
+2021-06-09 19:48:06,438 Scheduler started
+[2021-06-09 20:06:58 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:87811)
+2021-06-09 20:07:07,778 Scheduler started
+[2021-06-09 20:08:51 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:89987)
+2021-06-09 20:08:52,389 Scheduler started
+[2021-06-09 21:06:25 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92803)
+2021-06-09 21:06:26,409 Scheduler started
+[2021-06-09 21:27:55 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92923)
+2021-06-09 21:27:56,491 Scheduler started
+[2021-06-09 21:34:09 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92866)
+2021-06-09 21:34:10,363 Scheduler started
+[2021-06-09 22:17:04 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:92991)
+2021-06-09 22:17:05,369 Scheduler started
+[2021-06-09 22:38:22 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93203)
+2021-06-09 22:38:44,102 Scheduler started
+[2021-06-09 23:24:50 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93064)
+2021-06-09 23:25:12,109 Scheduler started
+[2021-06-09 23:35:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93123)
+2021-06-09 23:35:16,364 Scheduler started
+[2021-06-09 23:39:33 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93271)
+2021-06-09 23:39:34,310 Scheduler started
+[2021-06-09 23:45:16 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93336)
+2021-06-09 23:45:17,313 Scheduler started
+[2021-06-10 00:28:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93385)
+2021-06-10 00:28:59,550 Scheduler started
+[2021-06-10 00:50:46 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93591)
+2021-06-10 00:51:08,740 Scheduler started
+[2021-06-10 02:15:57 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93658)
+2021-06-10 02:16:20,763 Scheduler started
+[2021-06-10 02:31:03 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:93725)
+2021-06-10 02:31:04,317 Scheduler started
+[2021-06-10 02:56:05 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94284)
+2021-06-10 02:56:14,571 Scheduler started
+[2021-06-10 02:58:36 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94335)
+2021-06-10 02:58:37,292 Scheduler started
+[2021-06-10 03:07:27 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94439)
+2021-06-10 03:07:28,303 Scheduler started
+[2021-06-10 03:25:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94555)
+2021-06-10 03:25:50,310 Scheduler started
+[2021-06-10 05:26:39 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94624)
+2021-06-10 05:26:48,726 Scheduler started
+[2021-06-10 06:35:09 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94701)
+2021-06-10 06:35:10,392 Scheduler started
+[2021-06-10 07:42:07 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94879)
+2021-06-10 07:42:08,432 Scheduler started
+[2021-06-10 07:55:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:94948)
+2021-06-10 07:55:16,285 Scheduler started
+[2021-06-10 07:57:07 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95013)
+2021-06-10 07:57:08,280 Scheduler started
+[2021-06-10 09:10:58 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95069)
+2021-06-10 09:10:59,391 Scheduler started
+[2021-06-10 18:03:14 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95144)
+2021-06-10 18:03:41,697 Scheduler started
+[2021-06-10 18:19:17 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95209)
+2021-06-10 18:19:40,746 Scheduler started
+[2021-06-10 18:35:26 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95588)
+2021-06-10 18:35:26,816 Scheduler started
+[2021-06-10 19:20:48 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95284)
+2021-06-10 19:20:48,806 Scheduler started
+[2021-06-10 19:25:36 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95661)
+2021-06-10 19:25:36,773 Scheduler started
+[2021-06-10 19:57:24 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95345)
+2021-06-10 19:57:24,796 Scheduler started
+[2021-06-10 21:07:09 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95736)
+2021-06-10 21:07:09,877 Scheduler started
+[2021-06-10 21:28:58 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95793)
+2021-06-10 21:28:58,787 Scheduler started
+[2021-06-10 21:34:16 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:95931)
+2021-06-10 21:34:16,758 Scheduler started
+[2021-06-10 22:36:11 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29705)
+2021-06-10 22:36:11,828 Scheduler started
+[2021-06-10 23:20:05 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29779)
+2021-06-10 23:20:05,778 Scheduler started
+[2021-06-10 23:30:36 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29840)
+2021-06-10 23:30:36,763 Scheduler started
+[2021-06-10 23:32:18 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29895)
+2021-06-10 23:32:18,736 Scheduler started
+[2021-06-10 23:36:40 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:29971)
+2021-06-10 23:36:40,762 Scheduler started
+[2021-06-10 23:43:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30043)
+2021-06-10 23:43:38,657 Scheduler started
+[2021-06-10 23:53:18 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30117)
+2021-06-10 23:53:18,749 Scheduler started
+[2021-06-11 00:13:22 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30299)
+2021-06-11 00:13:46,418 Scheduler started
+[2021-06-11 00:20:55 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30368)
+2021-06-11 00:21:19,691 Scheduler started
+[2021-06-11 00:26:41 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30425)
+2021-06-11 00:26:49,600 Scheduler started
+[2021-06-11 00:28:26 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30501)
+2021-06-11 00:28:35,004 Scheduler started
+[2021-06-11 00:31:03 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30574)
+2021-06-11 00:31:26,623 Scheduler started
+[2021-06-11 00:38:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30640)
+2021-06-11 00:38:49,729 Scheduler started
+[2021-06-11 02:17:18 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:30714)
+2021-06-11 02:17:27,920 Scheduler started
+[2021-06-11 02:21:49 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31135)
+2021-06-11 02:21:49,702 Scheduler started
+[2021-06-11 02:45:28 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31338)
+2021-06-11 02:45:51,571 Scheduler started
+[2021-06-11 03:08:13 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31456)
+2021-06-11 03:08:13,721 Scheduler started
+[2021-06-11 03:16:41 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31772)
+2021-06-11 03:16:41,700 Scheduler started
+[2021-06-11 03:35:46 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31610)
+2021-06-11 03:36:09,405 Scheduler started
+[2021-06-11 03:54:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31709)
+2021-06-11 03:54:57,397 Scheduler started
+[2021-06-11 04:13:54 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31842)
+2021-06-11 04:13:54,709 Scheduler started
+[2021-06-11 04:43:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31908)
+2021-06-11 04:43:59,776 Scheduler started
+[2021-06-11 04:47:24 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:31979)
+2021-06-11 04:47:24,696 Scheduler started
+[2021-06-11 05:36:12 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32162)
+2021-06-11 05:36:12,730 Scheduler started
+[2021-06-11 06:06:35 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32232)
+2021-06-11 06:06:58,723 Scheduler started
+[2021-06-11 06:25:15 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32304)
+2021-06-11 06:25:15,686 Scheduler started
+[2021-06-11 07:26:19 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32372)
+2021-06-11 07:26:19,794 Scheduler started
+[2021-06-11 07:42:59 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32444)
+2021-06-11 07:42:59,669 Scheduler started
+[2021-06-11 08:03:50 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32541)
+2021-06-11 08:03:51,683 Scheduler started
+[2021-06-11 08:05:54 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32611)
+2021-06-11 08:05:55,669 Scheduler started
+[2021-06-11 08:22:18 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32668)
+2021-06-11 08:22:19,689 Scheduler started
+[2021-06-11 09:17:20 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32812)
+2021-06-11 09:17:21,691 Scheduler started
+[2021-06-11 09:20:34 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:32878)
+2021-06-11 09:20:35,668 Scheduler started
+2021-06-11 10:17:59,238 already_started_exp (1008) {'hitId': 'liveOQKMV2', 'assignmentId': 'debugZU7KNR', 'workerId': 'debugDF0TZC', 'mode': 'live'}
+2021-06-11 10:21:34,018 already_started_exp (1008) {'hitId': 'liveOQKMV2', 'assignmentId': 'liveZU7KNR', 'workerId': 'liveDF0TZC', 'mode': 'live'}
+[2021-06-11 13:24:17 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33244)
+2021-06-11 13:24:19,418 Scheduler started
+[2021-06-11 14:40:12 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33186)
+[2021-06-11 14:40:12 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:47027)
+2021-06-11 14:40:16,304 Scheduler started
+2021-06-11 14:40:16,366 Scheduler started
+[2021-06-11 15:46:30 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33309)
+2021-06-11 15:46:56,081 Scheduler started
+[2021-06-11 16:37:53 -0400] [58610] [CRITICAL] WORKER TIMEOUT (pid:33369)
+2021-06-11 16:38:20,177 Scheduler started
+2021-06-16 09:32:14,077 Scheduler started
+2021-06-16 09:32:14,077 Scheduler started
+2021-06-16 09:32:14,077 Scheduler started
+2021-06-16 09:32:14,077 Scheduler started
+2021-06-16 09:32:14,079 Scheduler started
+2021-06-16 09:32:14,079 Scheduler started
+2021-06-16 09:32:14,081 Scheduler started
+2021-06-16 09:32:14,079 Scheduler started
+2021-06-16 09:32:14,079 Scheduler started
+[2021-06-16 10:36:06 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:68991)
+2021-06-16 10:36:19,736 Scheduler started
+[2021-06-16 12:31:47 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:68992)
+2021-06-16 12:31:59,875 Scheduler started
+[2021-06-16 13:21:11 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:68995)
+2021-06-16 13:21:12,623 Scheduler started
+[2021-06-16 13:34:19 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:68996)
+2021-06-16 13:34:20,612 Scheduler started
+[2021-06-16 17:26:20 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:68994)
+2021-06-16 17:26:33,371 Scheduler started
+[2021-06-16 18:12:46 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:68997)
+2021-06-16 18:12:47,077 Scheduler started
+[2021-06-16 18:17:23 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:68998)
+2021-06-16 18:17:24,042 Scheduler started
+[2021-06-16 19:49:32 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:68999)
+2021-06-16 19:49:33,178 Scheduler started
+[2021-06-16 21:21:24 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:72145)
+2021-06-16 21:21:25,224 Scheduler started
+[2021-06-16 21:41:58 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:69000)
+2021-06-16 21:41:59,064 Scheduler started
+[2021-06-16 22:15:54 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:79141)
+2021-06-16 22:15:55,058 Scheduler started
+[2021-06-16 22:19:18 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:79272)
+2021-06-16 22:19:19,082 Scheduler started
+[2021-06-16 23:45:40 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:79348)
+2021-06-16 23:45:41,130 Scheduler started
+[2021-06-17 00:27:18 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:90526)
+[2021-06-17 00:27:18 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91236)
+2021-06-17 00:27:33,716 Scheduler started
+2021-06-17 00:27:33,716 Scheduler started
+[2021-06-17 01:35:22 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:90603)
+2021-06-17 01:35:23,110 Scheduler started
+[2021-06-17 02:11:46 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:90658)
+2021-06-17 02:11:55,467 Scheduler started
+[2021-06-17 02:15:24 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:90758)
+2021-06-17 02:15:25,053 Scheduler started
+[2021-06-17 03:34:34 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:90962)
+2021-06-17 03:34:35,154 Scheduler started
+[2021-06-17 04:48:25 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91039)
+2021-06-17 04:48:37,871 Scheduler started
+[2021-06-17 04:59:44 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91092)
+2021-06-17 04:59:45,062 Scheduler started
+[2021-06-17 05:06:59 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91165)
+2021-06-17 05:07:00,038 Scheduler started
+[2021-06-17 05:12:06 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91406)
+2021-06-17 05:12:07,067 Scheduler started
+[2021-06-17 05:33:51 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91412)
+2021-06-17 05:33:52,056 Scheduler started
+[2021-06-17 05:51:43 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91480)
+2021-06-17 05:51:44,059 Scheduler started
+[2021-06-17 06:03:23 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91547)
+2021-06-17 06:03:24,059 Scheduler started
+[2021-06-17 06:05:14 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91664)
+2021-06-17 06:05:15,050 Scheduler started
+[2021-06-17 07:19:41 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91746)
+2021-06-17 07:19:42,177 Scheduler started
+[2021-06-17 07:23:03 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:91963)
+2021-06-17 07:23:04,066 Scheduler started
+[2021-06-17 07:33:16 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92030)
+2021-06-17 07:33:17,111 Scheduler started
+[2021-06-17 08:40:29 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92084)
+2021-06-17 08:40:30,111 Scheduler started
+[2021-06-17 08:53:32 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92160)
+2021-06-17 08:53:44,971 Scheduler started
+[2021-06-17 09:08:30 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92219)
+2021-06-17 09:08:31,082 Scheduler started
+[2021-06-17 11:36:01 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92424)
+2021-06-17 11:36:16,554 Scheduler started
+[2021-06-17 12:12:11 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92501)
+2021-06-17 12:12:20,469 Scheduler started
+[2021-06-17 13:42:39 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92290)
+[2021-06-17 13:42:39 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5022)
+2021-06-17 13:42:39,870 Scheduler started
+2021-06-17 13:42:39,915 Scheduler started
+[2021-06-17 13:51:45 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92358)
+[2021-06-17 13:51:45 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:4894)
+[2021-06-17 13:51:45 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5087)
+[2021-06-17 13:51:45 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5088)
+2021-06-17 13:51:58,140 Scheduler started
+2021-06-17 13:51:58,140 Scheduler started
+2021-06-17 13:51:58,158 Scheduler started
+2021-06-17 13:51:58,160 Scheduler started
+[2021-06-17 13:53:36 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92829)
+[2021-06-17 13:53:36 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5176)
+[2021-06-17 13:53:36 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5177)
+[2021-06-17 13:53:36 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5178)
+[2021-06-17 13:53:36 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5179)
+2021-06-17 13:53:37,214 Scheduler started
+2021-06-17 13:53:49,653 Scheduler started
+2021-06-17 13:53:49,672 Scheduler started
+2021-06-17 13:53:49,687 Scheduler started
+2021-06-17 13:53:49,788 Scheduler started
+[2021-06-17 14:00:20 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92684)
+2021-06-17 14:00:20,721 Scheduler started
+[2021-06-17 17:37:53 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92757)
+2021-06-17 17:38:07,929 Scheduler started
+[2021-06-17 18:13:02 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:92946)
+2021-06-17 18:13:03,118 Scheduler started
+[2021-06-17 18:43:12 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:94645)
+2021-06-17 18:43:13,143 Scheduler started
+[2021-06-17 18:46:16 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5235)
+2021-06-17 18:46:17,114 Scheduler started
+[2021-06-17 19:13:43 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5236)
+2021-06-17 19:13:44,125 Scheduler started
+[2021-06-17 21:02:36 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5237)
+2021-06-17 21:02:37,267 Scheduler started
+[2021-06-17 21:25:19 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5239)
+2021-06-17 21:25:20,127 Scheduler started
+[2021-06-17 21:52:50 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5240)
+2021-06-17 21:52:51,101 Scheduler started
+[2021-06-17 22:43:25 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:5301)
+2021-06-17 22:43:26,146 Scheduler started
+[2021-06-17 23:27:19 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:17658)
+2021-06-17 23:27:20,129 Scheduler started
+[2021-06-17 23:30:19 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:17713)
+2021-06-17 23:30:20,106 Scheduler started
+[2021-06-17 23:32:32 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:17766)
+2021-06-17 23:32:33,110 Scheduler started
+[2021-06-17 23:53:19 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:17864)
+2021-06-17 23:53:20,120 Scheduler started
+[2021-06-18 01:54:09 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18155)
+2021-06-18 01:54:19,499 Scheduler started
+[2021-06-18 02:18:26 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:17931)
+2021-06-18 02:18:27,117 Scheduler started
+[2021-06-18 02:50:48 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:17986)
+2021-06-18 02:50:49,112 Scheduler started
+[2021-06-18 02:52:17 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18255)
+2021-06-18 02:52:18,118 Scheduler started
+[2021-06-18 02:57:16 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18308)
+2021-06-18 02:57:17,106 Scheduler started
+[2021-06-18 04:15:38 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18376)
+2021-06-18 04:15:52,768 Scheduler started
+[2021-06-18 04:23:30 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18453)
+2021-06-18 04:23:31,115 Scheduler started
+[2021-06-18 04:42:31 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18525)
+2021-06-18 04:42:32,122 Scheduler started
+[2021-06-18 05:03:45 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18591)
+2021-06-18 05:03:46,141 Scheduler started
+[2021-06-18 06:11:37 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19049)
+2021-06-18 06:11:38,228 Scheduler started
+[2021-06-18 06:38:24 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18661)
+2021-06-18 06:38:25,112 Scheduler started
+[2021-06-18 06:46:07 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18921)
+2021-06-18 06:46:08,122 Scheduler started
+[2021-06-18 06:59:45 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19114)
+2021-06-18 06:59:46,120 Scheduler started
+[2021-06-18 07:24:24 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:18991)
+2021-06-18 07:24:25,116 Scheduler started
+[2021-06-18 07:48:53 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19187)
+2021-06-18 07:48:54,144 Scheduler started
+[2021-06-18 07:58:01 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19301)
+2021-06-18 07:58:02,105 Scheduler started
+[2021-06-18 08:26:11 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19387)
+2021-06-18 08:26:12,125 Scheduler started
+[2021-06-18 08:35:39 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19442)
+2021-06-18 08:35:40,124 Scheduler started
+[2021-06-18 08:41:11 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19498)
+2021-06-18 08:41:12,115 Scheduler started
+[2021-06-18 09:23:47 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19704)
+2021-06-18 09:23:48,146 Scheduler started
+[2021-06-18 09:25:27 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19780)
+2021-06-18 09:25:28,167 Scheduler started
+[2021-06-18 16:29:22 -0400] [68990] [CRITICAL] WORKER TIMEOUT (pid:19852)
+2021-06-18 16:29:41,119 Scheduler started
+2021-08-02 09:44:49,316 Scheduler started
+2021-08-02 09:44:49,318 Scheduler started
+2021-08-02 09:44:49,337 Scheduler started
+2021-08-02 09:44:49,343 Scheduler started
+2021-08-02 09:44:49,400 Scheduler started
+2021-08-02 09:44:49,406 Scheduler started
+2021-08-02 09:44:49,408 Scheduler started
+2021-08-02 09:44:49,428 Scheduler started
+2021-08-02 09:44:49,429 Scheduler started
+2021-08-02 10:15:26,080 Scheduler started
+2021-08-02 10:15:26,191 Scheduler started
+2021-08-02 10:15:26,221 Scheduler started
+2021-08-02 10:15:26,283 Scheduler started
+2021-08-02 10:15:26,293 Scheduler started
+2021-08-02 10:15:26,362 Scheduler started
+2021-08-02 10:15:26,385 Scheduler started
+2021-08-02 10:15:26,387 Scheduler started
+2021-08-02 10:15:26,394 Scheduler started
+2021-08-02 11:56:12,937 Scheduler started
+2021-08-02 11:56:13,026 Scheduler started
+2021-08-02 11:56:13,135 Scheduler started
+2021-08-02 11:56:13,289 Scheduler started
+2021-08-02 11:56:13,335 Scheduler started
+2021-08-02 11:56:13,339 Scheduler started
+2021-08-02 11:56:13,380 Scheduler started
+2021-08-02 11:56:13,398 Scheduler started
+2021-08-02 11:56:13,399 Scheduler started
+2021-08-02 11:57:39,176 Scheduler started
+2021-08-02 11:57:39,284 Scheduler started
+2021-08-02 11:57:39,315 Scheduler started
+2021-08-02 11:57:39,638 Scheduler started
+2021-08-02 11:57:39,796 Scheduler started
+2021-08-02 11:57:39,850 Scheduler started
+2021-08-02 11:57:39,854 Scheduler started
+2021-08-02 11:57:39,923 Scheduler started
+2021-08-02 11:57:39,925 Scheduler started
+[2021-08-02 12:33:25 -0400] [12325] [CRITICAL] WORKER TIMEOUT (pid:12326)
+2021-08-02 12:33:26,156 Scheduler started
+2021-08-02 14:41:21,013 Scheduler started
+2021-08-02 14:41:21,153 Scheduler started
+2021-08-02 14:41:21,158 Scheduler started
+2021-08-02 14:41:21,205 Scheduler started
+2021-08-02 14:41:21,249 Scheduler started
+2021-08-02 14:41:21,258 Scheduler started
+2021-08-02 14:41:21,280 Scheduler started
+2021-08-02 14:41:21,313 Scheduler started
+2021-08-02 14:41:21,318 Scheduler started
+2021-08-02 15:50:13,166 Scheduler started
+2021-08-02 15:50:13,293 Scheduler started
+2021-08-02 15:50:13,362 Scheduler started
+2021-08-02 15:50:13,450 Scheduler started
+2021-08-02 15:50:13,475 Scheduler started
+2021-08-02 15:50:13,484 Scheduler started
+2021-08-02 15:50:13,510 Scheduler started
+2021-08-02 15:50:13,511 Scheduler started
+2021-08-02 15:50:13,527 Scheduler started
+2021-08-02 16:37:09,876 Scheduler started
+2021-08-02 16:37:10,021 Scheduler started
+2021-08-02 16:37:10,048 Scheduler started
+2021-08-02 16:37:10,132 Scheduler started
+2021-08-02 16:37:10,207 Scheduler started
+2021-08-02 16:37:10,242 Scheduler started
+2021-08-02 16:37:10,292 Scheduler started
+2021-08-02 16:37:10,318 Scheduler started
+2021-08-02 16:37:10,331 Scheduler started
+2021-08-02 16:38:01,931 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: test
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/experiment.py", line 337, in advertisement
+    nrecords = Participant.query.\
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3803, in count
+    return self.from_self(col).scalar()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: test
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT test.uniqueid AS test_uniqueid, test.assignmentid AS test_assignmentid, test.workerid AS test_workerid, test.hitid AS test_hitid, test.ipaddress AS test_ipaddress, test.browser AS test_browser, test.platform AS test_platform, test.language AS test_language, test.cond AS test_cond, test.counterbalance AS test_counterbalance, test.codeversion AS test_codeversion, test.beginhit AS test_beginhit, test.beginexp AS test_beginexp, test.endhit AS test_endhit, test.bonus AS test_bonus, test.status AS test_status, test.mode AS test_mode 
+FROM test 
+WHERE test.assignmentid != ? AND test.workerid = ?) AS anon_1]
+[parameters: ('liveQK34VA', 'liveUD3SAR')]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-08-02 16:38:17,157 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: test
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/psiturk/experiment.py", line 337, in advertisement
+    nrecords = Participant.query.\
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3803, in count
+    return self.from_self(col).scalar()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/Hokua/miniconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: test
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT test.uniqueid AS test_uniqueid, test.assignmentid AS test_assignmentid, test.workerid AS test_workerid, test.hitid AS test_hitid, test.ipaddress AS test_ipaddress, test.browser AS test_browser, test.platform AS test_platform, test.language AS test_language, test.cond AS test_cond, test.counterbalance AS test_counterbalance, test.codeversion AS test_codeversion, test.beginhit AS test_beginhit, test.beginexp AS test_beginexp, test.endhit AS test_endhit, test.bonus AS test_bonus, test.status AS test_status, test.mode AS test_mode 
+FROM test 
+WHERE test.assignmentid != ? AND test.workerid = ?) AS anon_1]
+[parameters: ('liveOZRWG9', 'liveQSARZL')]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)

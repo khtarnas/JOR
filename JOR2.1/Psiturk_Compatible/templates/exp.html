@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Judgement Of Recency Task</title>
+  <script src="/static/lib/jquery-min.js" type="text/javascript"></script>
+  <script src="/static/lib/underscore-min.js" type="text/javascript"></script>
+  <script src="/static/lib/backbone-min.js" type="text/javascript"></script>
+  <script src="/static/lib/d3.v3.min.js"></script>
+
+  <!-- jsPsych Plugins -->
+  <script src="/static/jsPsych/jspsych.js"></script>
+  <script src="/static/jsPsych/utils.js"></script>
+  <script src ="/static/jsPsych/plugins/jspsych-instructions.js"></script>
+  <script src="/static/jsPsych/plugins/jspsych-html-button-response.js"></script>
+  <script src="/static/jsPsych/plugins/jspsych-html-keyboard-response.js"></script>
+  <script src="/static/jsPsych/plugins/jspsych-image-keyboard-response.js"></script>
+  <script src="/static/jsPsych/plugins/jspsych-survey-html-form.js"></script>
+  <script src="/static/jsPsych/plugins/html-survey.js"></script>
+  <link href="/static/jsPsych/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+
+  <!-- additional functions -->
+  <script src="/static/js/wordpool.js"></script>
+  <script src="/static/js/exp_orders.js"></script>
+
+  <!-- psiTurk -->
+  <script src="/static/js/psiturk.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+        // These fields provided by the psiTurk Server
+        let uniqueId = "{{ uniqueId }}";  // a unique string identifying the worker/task
+        let adServerLoc = "{{ adServerLoc }}"; // the location of your ad (so you can send user back at end of experiment)
+        let mode = "{{ mode }}"
+        let counterbalance = "{{ counterbalance }}"
+        let condition = "{{ condition }}"
+  </script>
+
+  <!-- experiment -->
+    <script src="/static/js/task.js" type="text/javascript"></script>
+    <!-- <script type="text/javascript">
+        window.addEventListener("load", (ev) => run_exp());
+    </script> -->
+</head>
+
+<body>
+  <noscript>
+    <h1>Warning: Javascript seems to be disabled</h1>
+    <p>This website requires that Javascript be enabled on your browser.</p>
+    <p>Instructions for enabling Javascript in your browser can be found
+    <a href="http://support.google.com/bin/answer.py?hl=en&answer=23852">here</a></p>
+  </noscript>
+</body>
+
+</html>
