@@ -2045,3 +2045,386 @@ FROM test
 WHERE test.assignmentid != ? AND test.workerid = ?) AS anon_1]
 [parameters: ('liveOZRWG9', 'liveQSARZL')]
 (Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-09-20 16:15:42,394 Scheduler started
+2021-09-20 16:15:42,539 Scheduler started
+2021-09-20 16:15:42,590 Scheduler started
+2021-09-20 16:15:42,671 Scheduler started
+2021-09-20 16:15:42,778 Scheduler started
+2021-09-20 16:15:42,807 Scheduler started
+2021-09-20 16:15:42,832 Scheduler started
+2021-09-20 16:15:42,864 Scheduler started
+2021-09-20 16:15:42,901 Scheduler started
+[2021-09-20 17:27:19 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:36789)
+2021-09-20 17:27:19,757 Scheduler started
+[2021-09-20 17:29:59 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:36790)
+2021-09-20 17:30:00,252 Scheduler started
+[2021-09-20 18:09:25 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:36791)
+2021-09-20 18:09:25,814 Scheduler started
+[2021-09-20 20:03:30 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:36792)
+2021-09-20 20:03:30,820 Scheduler started
+[2021-09-20 21:57:35 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:36793)
+2021-09-20 21:57:35,895 Scheduler started
+[2021-09-20 23:51:42 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:36794)
+2021-09-20 23:51:42,806 Scheduler started
+[2021-09-21 01:45:47 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:36795)
+2021-09-21 01:45:47,828 Scheduler started
+[2021-09-21 03:15:21 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:36796)
+2021-09-21 03:15:21,818 Scheduler started
+[2021-09-21 03:20:34 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:36797)
+2021-09-21 03:20:34,841 Scheduler started
+[2021-09-21 05:06:01 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:37412)
+2021-09-21 05:06:01,887 Scheduler started
+[2021-09-21 05:13:34 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:37428)
+2021-09-21 05:13:34,752 Scheduler started
+[2021-09-21 06:51:57 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:37450)
+2021-09-21 06:51:57,765 Scheduler started
+[2021-09-21 07:31:29 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:37469)
+2021-09-21 07:31:29,765 Scheduler started
+[2021-09-21 08:49:59 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:37494)
+2021-09-21 08:49:59,762 Scheduler started
+[2021-09-21 09:45:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:37515)
+[2021-09-21 09:45:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:37537)
+[2021-09-21 09:45:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38076)
+[2021-09-21 09:45:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38092)
+[2021-09-21 09:45:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38113)
+[2021-09-21 09:45:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38317)
+[2021-09-21 09:45:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38332)
+[2021-09-21 09:45:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38355)
+2021-09-21 09:45:59,509 Scheduler started
+2021-09-21 09:45:59,664 Scheduler started
+2021-09-21 09:45:59,696 Scheduler started
+2021-09-21 09:45:59,829 Scheduler started
+2021-09-21 09:45:59,862 Scheduler started
+2021-09-21 09:45:59,899 Scheduler started
+2021-09-21 09:45:59,901 Scheduler started
+2021-09-21 09:45:59,933 Scheduler started
+[2021-09-21 09:51:34 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38373)
+2021-09-21 09:51:34,779 Scheduler started
+[2021-09-21 10:50:13 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38391)
+2021-09-21 10:50:13,776 Scheduler started
+[2021-09-21 11:31:04 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38392)
+2021-09-21 11:31:04,779 Scheduler started
+[2021-09-21 12:04:07 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38393)
+2021-09-21 12:04:07,788 Scheduler started
+[2021-09-21 13:12:44 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38394)
+2021-09-21 13:12:44,802 Scheduler started
+[2021-09-21 13:17:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38395)
+2021-09-21 13:17:58,772 Scheduler started
+[2021-09-21 13:20:08 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38396)
+2021-09-21 13:20:08,779 Scheduler started
+[2021-09-21 15:07:33 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38397)
+2021-09-21 15:07:33,798 Scheduler started
+[2021-09-21 16:16:43 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38398)
+2021-09-21 16:16:43,787 Scheduler started
+[2021-09-21 17:29:42 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38412)
+2021-09-21 17:29:42,784 Scheduler started
+[2021-09-21 17:37:00 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38431)
+2021-09-21 17:37:00,769 Scheduler started
+[2021-09-21 21:18:36 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38553)
+2021-09-21 21:18:36,789 Scheduler started
+[2021-09-21 21:51:10 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38571)
+2021-09-21 21:51:10,777 Scheduler started
+[2021-09-21 21:54:26 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38597)
+2021-09-21 21:54:26,776 Scheduler started
+[2021-09-21 23:16:16 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38614)
+[2021-09-21 23:16:16 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38632)
+[2021-09-21 23:16:16 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38650)
+[2021-09-21 23:16:16 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38776)
+[2021-09-21 23:16:16 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38794)
+[2021-09-21 23:16:16 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:38875)
+[2021-09-21 23:16:16 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39011)
+[2021-09-21 23:16:16 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39027)
+2021-09-21 23:16:17,606 Scheduler started
+2021-09-21 23:16:17,622 Scheduler started
+2021-09-21 23:16:17,661 Scheduler started
+2021-09-21 23:16:17,783 Scheduler started
+2021-09-21 23:16:17,808 Scheduler started
+2021-09-21 23:16:17,830 Scheduler started
+2021-09-21 23:16:17,850 Scheduler started
+2021-09-21 23:16:17,881 Scheduler started
+[2021-09-22 01:10:21 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39043)
+[2021-09-22 01:10:21 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39078)
+[2021-09-22 01:10:21 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39079)
+[2021-09-22 01:10:21 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39084)
+2021-09-22 01:10:22,021 Scheduler started
+2021-09-22 01:10:22,029 Scheduler started
+2021-09-22 01:10:22,091 Scheduler started
+2021-09-22 01:10:22,136 Scheduler started
+[2021-09-22 04:56:33 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39080)
+2021-09-22 04:56:33,855 Scheduler started
+[2021-09-22 05:05:30 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39081)
+2021-09-22 05:05:30,817 Scheduler started
+[2021-09-22 05:17:38 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39082)
+2021-09-22 05:17:38,798 Scheduler started
+[2021-09-22 05:59:58 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39083)
+2021-09-22 05:59:58,820 Scheduler started
+[2021-09-22 06:04:12 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39085)
+2021-09-22 06:04:12,801 Scheduler started
+[2021-09-22 07:05:28 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39204)
+2021-09-22 07:05:28,880 Scheduler started
+[2021-09-22 08:59:33 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39205)
+2021-09-22 08:59:33,838 Scheduler started
+[2021-09-22 10:53:38 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39206)
+[2021-09-22 10:53:38 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39415)
+[2021-09-22 10:53:38 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39430)
+[2021-09-22 10:53:38 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39499)
+[2021-09-22 10:53:38 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39515)
+[2021-09-22 10:53:38 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39637)
+2021-09-22 10:53:39,423 Scheduler started
+2021-09-22 10:53:39,442 Scheduler started
+2021-09-22 10:53:39,456 Scheduler started
+2021-09-22 10:53:39,470 Scheduler started
+2021-09-22 10:53:39,539 Scheduler started
+2021-09-22 10:53:39,561 Scheduler started
+[2021-09-22 11:39:49 -0400] [36788] [CRITICAL] WORKER TIMEOUT (pid:39207)
+2021-09-22 11:39:49,846 Scheduler started
+2021-09-22 13:15:24,312 already_started_exp_mturk (1009) {'assignmentId': 'live630H1D', 'hitId': 'liveP5KGNB', 'workerId': 'livePRNHBD', 'mode': 'live'}
+2021-09-22 13:16:24,426 already_started_exp (1008) {'hitId': 'liveP5KGNB', 'assignmentId': 'live630H1D', 'workerId': 'livePRNHBD', 'mode': 'live'}
+2021-09-22 13:20:24,484 already_started_exp_mturk (1009) {'assignmentId': 'liveBJTHLO', 'hitId': 'liveRRHZHR', 'workerId': 'live6I5OU2', 'mode': 'live'}
+2021-09-22 14:00:24,341 already_started_exp_mturk (1009) {'assignmentId': 'liveTFQZTM', 'hitId': 'liveIKG7PU', 'workerId': 'live8THIZM', 'mode': 'live'}
+2021-09-27 15:12:23,322 Scheduler started
+2021-09-27 15:12:23,329 Scheduler started
+2021-09-27 15:12:23,382 Scheduler started
+2021-09-27 15:12:23,435 Scheduler started
+2021-09-27 15:12:23,439 Scheduler started
+2021-09-27 15:12:23,450 Scheduler started
+2021-09-27 15:12:23,459 Scheduler started
+2021-09-27 15:12:23,480 Scheduler started
+2021-09-27 15:12:23,511 Scheduler started
+2021-09-27 15:15:03,888 already_started_exp_mturk (1009) {'assignmentId': 'liveMHBCLW', 'hitId': 'liveBV3UBZ', 'workerId': 'livePEWLTO', 'mode': 'live'}
+[2021-10-04 17:17:47 -0400] [41927] [CRITICAL] WORKER TIMEOUT (pid:41928)
+2021-10-04 17:17:56,592 Scheduler started
+[2021-10-05 09:34:44 -0400] [41927] [CRITICAL] WORKER TIMEOUT (pid:41929)
+2021-10-05 09:34:49,195 Scheduler started
+2021-10-06 13:45:03,372 already_started_exp_mturk (1009) {'assignmentId': 'liveIGDK41', 'hitId': 'live2YBXT5', 'workerId': 'liveXJQ5ST', 'mode': 'live'}
+2021-10-29 11:49:26,286 Scheduler started
+2021-10-29 11:49:26,286 Scheduler started
+2021-10-29 11:49:26,334 Scheduler started
+2021-10-29 11:49:26,358 Scheduler started
+2021-10-29 11:49:26,446 Scheduler started
+2021-10-29 11:49:26,447 Scheduler started
+2021-10-29 11:49:26,472 Scheduler started
+2021-10-29 11:49:26,482 Scheduler started
+2021-10-29 11:49:26,502 Scheduler started
+2021-11-08 13:21:33,789 Scheduler started
+2021-11-08 13:21:33,797 Scheduler started
+2021-11-08 13:21:33,993 Scheduler started
+2021-11-08 13:21:34,029 Scheduler started
+2021-11-08 13:21:34,048 Scheduler started
+2021-11-08 13:21:34,060 Scheduler started
+2021-11-08 13:21:34,066 Scheduler started
+2021-11-08 13:21:34,083 Scheduler started
+2021-11-08 13:21:34,084 Scheduler started
+2021-11-08 13:22:30,352 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: test
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/psiturk/experiment.py", line 337, in advertisement
+    nrecords = Participant.query.\
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3803, in count
+    return self.from_self(col).scalar()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: test
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT test.uniqueid AS test_uniqueid, test.assignmentid AS test_assignmentid, test.workerid AS test_workerid, test.hitid AS test_hitid, test.ipaddress AS test_ipaddress, test.browser AS test_browser, test.platform AS test_platform, test.language AS test_language, test.cond AS test_cond, test.counterbalance AS test_counterbalance, test.codeversion AS test_codeversion, test.beginhit AS test_beginhit, test.beginexp AS test_beginexp, test.endhit AS test_endhit, test.bonus AS test_bonus, test.status AS test_status, test.mode AS test_mode 
+FROM test 
+WHERE test.assignmentid != ? AND test.workerid = ?) AS anon_1]
+[parameters: ('live5MOFJG', 'liveS32CZG')]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-11-08 13:23:08,848 Exception on /ad [GET]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: test
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/psiturk/experiment.py", line 337, in advertisement
+    nrecords = Participant.query.\
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3803, in count
+    return self.from_self(col).scalar()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3523, in scalar
+    ret = self.one()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3490, in one
+    ret = self.one_or_none()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3459, in one_or_none
+    ret = list(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3535, in __iter__
+    return self._execute_and_instances(context)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/orm/query.py", line 3560, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1124, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: test
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT test.uniqueid AS test_uniqueid, test.assignmentid AS test_assignmentid, test.workerid AS test_workerid, test.hitid AS test_hitid, test.ipaddress AS test_ipaddress, test.browser AS test_browser, test.platform AS test_platform, test.language AS test_language, test.cond AS test_cond, test.counterbalance AS test_counterbalance, test.codeversion AS test_codeversion, test.beginhit AS test_beginhit, test.beginexp AS test_beginexp, test.endhit AS test_endhit, test.bonus AS test_bonus, test.status AS test_status, test.mode AS test_mode 
+FROM test 
+WHERE test.assignmentid != ? AND test.workerid = ?) AS anon_1]
+[parameters: ('liveK67ZXN', 'live0G5XV0')]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-11-08 13:24:59,374 Scheduler started
+2021-11-08 13:24:59,439 Scheduler started
+2021-11-08 13:24:59,530 Scheduler started
+2021-11-08 13:24:59,558 Scheduler started
+[2021-11-08 13:24:59 -0500] [775] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: table apscheduler_jobs already exists
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/gunicorn/workers/ggevent.py", line 162, in init_process
+    super().init_process()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/gunicorn/workers/base.py", line 119, in init_process
+    self.load_wsgi()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/gunicorn/workers/base.py", line 144, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/psiturk/experiment_server.py", line 68, in load
+    return util.import_app("psiturk.experiment:app")
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/gunicorn/util.py", line 358, in import_app
+    mod = importlib.import_module(module)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/psiturk/experiment.py", line 119, in <module>
+    scheduler.start(paused=True)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/apscheduler/schedulers/gevent.py", line 21, in start
+    BaseScheduler.start(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/apscheduler/schedulers/base.py", line 158, in start
+    store.start(self, alias)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/apscheduler/jobstores/sqlalchemy.py", line 68, in start
+    self.jobs_t.create(self.engine, True)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/sql/schema.py", line 928, in create
+    bind._run_visitor(ddl.SchemaGenerator, self, checkfirst=checkfirst)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2095, in _run_visitor
+    conn._run_visitor(visitorcallable, element, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1656, in _run_visitor
+    visitorcallable(self.dialect, self, **kwargs).traverse_single(element)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/sql/visitors.py", line 145, in traverse_single
+    return meth(obj, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/sql/ddl.py", line 827, in visit_table
+    self.connection.execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/sql/ddl.py", line 72, in _execute_on_connection
+    return connection._execute_ddl(self, multiparams, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1068, in _execute_ddl
+    ret = self._execute_context(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1316, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1510, in _handle_dbapi_exception
+    util.raise_(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 182, in raise_
+    raise exception
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1276, in _execute_context
+    self.dialect.do_execute(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 608, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) table apscheduler_jobs already exists
+[SQL: 
+CREATE TABLE apscheduler_jobs (
+	id VARCHAR(191) NOT NULL, 
+	next_run_time FLOAT, 
+	job_state BLOB NOT NULL, 
+	PRIMARY KEY (id)
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+2021-11-08 13:24:59,652 Scheduler started
+2021-11-08 13:24:59,715 Scheduler started
+2021-11-08 13:24:59,743 Scheduler started
+2021-11-08 13:24:59,745 Scheduler started
+[2021-11-08 13:25:27 -0500] [774] [CRITICAL] WORKER TIMEOUT (pid:775)
+2021-11-08 13:25:28,413 Scheduler started
+2021-11-08 13:38:40,878 already_started_exp_mturk (1009) {'assignmentId': 'liveQ7I0IN', 'hitId': 'liveXZ3K70', 'workerId': 'live9U70G6', 'mode': 'live'}

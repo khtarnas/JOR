@@ -1,5 +1,5 @@
 [HIT Configuration]
-title = JOR
+title = JOR2.1
 description = test config
 amt_keywords = Perception, Psychology
 lifetime = 24
@@ -28,8 +28,8 @@ logfile = server.log
 loglevel = 2
 debug = true
 [Task Parameters]
-experiment_code_version = 2.0
-num_conds = 4
+experiment_code_version = 2.1
+num_conds = 100
 num_counters = 1
 
 [Shell Parameters]

@@ -2,6 +2,7 @@
 Import Statements:
 '''
 
+# from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import create_engine, MetaData, Table
 import json
 import pandas as pd
@@ -14,7 +15,7 @@ Changing sqlite db into a pandas dataframe
 '''
 
 # Set the main variables to the correct values
-db_url = 'sqlite+pysqlite:////Users/Hokua/Documents/JOR2.0/Psiturk_Compatible/test.db'
+db_url = 'sqlite+pysqlite:////Users/khtarnas/Documents/JOR1.1/JOR2.1/Psiturk_Compatible/test.db' # Change based on computer being used with
 table_name = 'test'
 data_column_name = 'datastring'
 
@@ -84,5 +85,5 @@ for part in subject_data:
 # Put all subjects' trial data into a dataframe object from the
 # 'pandas' python library: one option among many for analysis
 df = pd.DataFrame(trialdata)
-print(df)
-print(df.columns)
+# print(df)
+#print(df.columns)

@@ -22,7 +22,7 @@ import numpy as np
 # index in a real wordpool. So the item "19" will correspond
 # to the item wordpool[19] in an array called wordpool that
 # contains real words.
-word_pool = range(576) #wordpool is of size 576
+word_pool = range(88) #wordpool is of size 576, but length must be 88 so words are only selected from a wordpool of max lengths
 
 '''
 To aid in the goal, we will maintain a list of studied items:
@@ -74,21 +74,13 @@ ordered_comparison_order = []
 # A counter to track which card we are currently on. We will start
 # with the first card (1). Only counts study cards, test cards are not
 # considered in card distance.
-counter = 1
+counter = 0
 
 # Numbers to play with to get the best option for V2.1
-study_length = 40 # Number of study trial preceeding the test period, 25 works
-blocks = 2 # Number of blocks in which there is a single presentation of each comparison
+study_length = 11 # Number of study trial preceeding the test period, 11 works (when counter += 2 in study block), 
+blocks = 1 # Number of blocks in which there is a single presentation of each comparison
 
 # All of the possible comparisons that can and need to be made in each test block
-# Mike's new matrix: [4, 6, 8, 10, 16, 22, 30, 40]
-# distances = [4, 6, 8, 10, 16, 22, 30, 40]
-# comparisons = []
-# for i in distances:
-#     for j in distances:
-#         if i < j:
-#             comp = (i, j)
-#             comparisons.append(comp)
 comparisons = [
 [4,6],
 [4,8],
@@ -140,11 +132,11 @@ Functions for experiment periods:
 # it is no longer studiable.
 def study(study_order, studiable, testable, card_nums, index):
     for _ in range(2):
-            val = random.choice(studiable)
-            testable.append(val)
-            study_order.append(val)
-            card_nums.append(index)
-            studiable.remove(val)
+        val = random.choice(studiable)
+        testable.append(val)
+        study_order.append(val)
+        card_nums.append(index)
+        studiable.remove(val)
 
 
 '''
@@ -153,8 +145,8 @@ Experiment:
 
 #STUDY PERIOD (present n study cards in a row):
 for i in range(1, study_length):
-    study(study_order, studiable, testable, card_nums, i)
-    counter+= 1
+    study(study_order, studiable, testable, card_nums, counter)
+    counter+= 2 #changing this to be 1 means every other studied item will not be tested, but this will mean less context interferences
 
 # TEST PERIOD (1 set of all comparisons -- scored alternation
 # between study and test -- starting with study):
@@ -278,7 +270,7 @@ while True: # loop for single block
                 counter = counter - count_tracker
                 count_tracker = 0
                 inner_loops += 1
-                print(inner_loops)
+                #print(inner_loops)
                 if inner_loops >= 1000:
                     done = False
                     break
@@ -356,12 +348,17 @@ while True: # loop for single block
                         if (i_pos > j_pos):
                             temp_testable.pop(i_pos)
                             temp_testable.pop(j_pos)
+
+                            temp_card_nums.pop(i_pos)
+                            temp_card_nums.pop(j_pos)
                         else:
                             temp_testable.pop(j_pos)
                             temp_testable.pop(i_pos)
 
-                        temp_card_nums.pop(i_pos)
-                        temp_card_nums.pop(j_pos)
+                            temp_card_nums.pop(j_pos)
+                            temp_card_nums.pop(i_pos)
+
+                        
 
                         break
                     # pop the comparison from the list 'tries' and try again
@@ -376,10 +373,3 @@ while True: # loop for single block
                 count_tracker += 2
 
 print("done")
-# Note: this should be called from trial_creation.py
-print(study_order)
-print(test_order)
-print(len(study_order))
-print(len(test_order))
-print(len(comparisons))
-print(len(studiable))

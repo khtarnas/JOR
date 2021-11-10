@@ -18,12 +18,12 @@ psiturk.recordUnstructuredData('pixel_depth', screen.pixelDepth)
 // they tell you which condition you have been assigned to
 let mycondition = condition;
 let mycounterbalance = counterbalance; // we are only using this
-console.log(mycounterbalance);
+//console.log(mycounterbalance);
 
 // If we don't have a counterbalance from psiTurk (testing only)
-let testing = true;
+let testing = false;
 if (testing) {
-    mycounterbalance = Math.floor(Math.random() * 4);
+    mycounterbalance = Math.floor(Math.random() * 100);
 }
 
 // This is the function that will be called from JOR/templates/exp.html
@@ -31,25 +31,25 @@ let run_exp = function() {
 
     // shuffle the input wordpool
     wordpool = jsPsych.randomization.repeat(wordpool, 1);
-
+    max_counterbalance = 100
 
     // Trial 1 Variables
-    wordpool1 = wordpool.slice(0, 128);
+    wordpool1 = wordpool.slice(0, 88);
     study_order1 = all_study_orders[mycounterbalance]
     test_order1 = all_test_orders[mycounterbalance]
     correct_side_order1 = all_correct_sides[mycounterbalance]
     comparison_type_order1 = all_comparison_type_orders[mycounterbalance]
     ordered_comparison_order1 = all_ordered_comparison_orders[mycounterbalance]
-    console.log("mycounterbalance = " + mycounterbalance);
-    console.log("wordpool1 = " + wordpool1);
+    //console.log("mycounterbalance = " + mycounterbalance);
+    //console.log("wordpool1 = " + wordpool1);
 
     mycounterbalance++;
-    if (mycounterbalance >= 4) {
+    if (mycounterbalance >= max_counterbalance) {
       mycounterbalance = 0;
     }
 
     // Trial 2 Variables
-    wordpool2 = wordpool.slice(128, 256);
+    wordpool2 = wordpool.slice(88, 176);
     study_order2 = all_study_orders[mycounterbalance]
     test_order2 = all_test_orders[mycounterbalance]
     correct_side_order2 = all_correct_sides[mycounterbalance]
@@ -57,12 +57,12 @@ let run_exp = function() {
     ordered_comparison_order2 = all_ordered_comparison_orders[mycounterbalance]
 
     mycounterbalance++;
-    if (mycounterbalance >= 4) {
+    if (mycounterbalance >= max_counterbalance) {
       mycounterbalance = 0;
     }
 
     // Trial 3 Variables
-    wordpool3 = wordpool.slice(256, 384);
+    wordpool3 = wordpool.slice(176, 264);
     study_order3 = all_study_orders[mycounterbalance]
     test_order3 = all_test_orders[mycounterbalance]
     correct_side_order3 = all_correct_sides[mycounterbalance]
@@ -70,22 +70,53 @@ let run_exp = function() {
     ordered_comparison_order3 = all_ordered_comparison_orders[mycounterbalance]
 
     mycounterbalance++;
-    if (mycounterbalance >= 4) {
+    if (mycounterbalance >= max_counterbalance) {
       mycounterbalance = 0;
     }
 
     // Trial 4 Variables
-    wordpool4 = wordpool.slice(384, 512);
+    wordpool4 = wordpool.slice(264, 352);
     study_order4 = all_study_orders[mycounterbalance]
     test_order4 = all_test_orders[mycounterbalance]
     correct_side_order4 = all_correct_sides[mycounterbalance]
     comparison_type_order4 = all_comparison_type_orders[mycounterbalance]
     ordered_comparison_order4 = all_ordered_comparison_orders[mycounterbalance]
 
+    mycounterbalance++;
+    if (mycounterbalance >= max_counterbalance) {
+      mycounterbalance = 0;
+    }
+
+    // Trial 5 Variables
+    wordpool5 = wordpool.slice(352, 440);
+    study_order5 = all_study_orders[mycounterbalance]
+    test_order5 = all_test_orders[mycounterbalance]
+    correct_side_order5 = all_correct_sides[mycounterbalance]
+    comparison_type_order5 = all_comparison_type_orders[mycounterbalance]
+    ordered_comparison_order5 = all_ordered_comparison_orders[mycounterbalance]
+
+    mycounterbalance++;
+    if (mycounterbalance >= max_counterbalance) {
+      mycounterbalance = 0;
+    }
+
+    // Trial 6 Variables
+    wordpool6 = wordpool.slice(440, 528);
+    study_order6 = all_study_orders[mycounterbalance]
+    test_order6 = all_test_orders[mycounterbalance]
+    correct_side_order6 = all_correct_sides[mycounterbalance]
+    comparison_type_order6 = all_comparison_type_orders[mycounterbalance]
+    ordered_comparison_order6 = all_ordered_comparison_orders[mycounterbalance]
+
+    mycounterbalance++;
+    if (mycounterbalance >= max_counterbalance) {
+      mycounterbalance = 0;
+    }
+
     //Time of study
     let length = "four seconds";
-    let time = 100; // the number of millisecond of the above string, normal value = 4000
-    let gap = 100; // the length of the gap of time after each card is present (in milliseconds), normal value: 750
+    let time = 4000; // the number of millisecond of the above string, normal value = 4000
+    let gap = 750; // the length of the gap of time after each card is present (in milliseconds), normal value: 750
 
     /****************************************************************************************
      ****************************** Experiment Begins ***************************************
@@ -125,7 +156,7 @@ let run_exp = function() {
 
         "<p>Each word will be seen at most twice: once during a study trial and once during a test trial.</p>" +
 
-        "<p>There will be two blocks (each around 15 - 20 minutes long) with a break in between." +
+        "<p>There will be two blocks (each around 10 - 15 minutes long) with a break in between." +
         " There will be no overlapping words between the two blocks.</p>" +
 
         "<p>Before the first block begins, there will be a short practice block to ensure that the instructions are clear." +
@@ -482,7 +513,7 @@ let run_exp = function() {
           // Warning event
           let warning = {
               type: "html-keyboard-response",
-              stimulus: "<p>Block 1 will last approximately 15 - 20 minutes." +
+              stimulus: "<p>Block 1 will last approximately 10 - 15 minutes." +
                       "<p>Please make sure you will not need to leave during that duration before starting.<p>" +
                       "<p>To begin <Strong>Block 1</Strong>, press the Space Bar.</p>",
               choices: [' '],
@@ -513,7 +544,7 @@ let run_exp = function() {
     timeline.push(block_one);
 
     //First 6 are study cards, then rest alternate
-    for (let i = 0; i < 19; i++) {
+    for (let i = 0; i < 10; i++) {
 
         console.log(wordpool1);
         // Grab two words to be studied in the right order
@@ -543,7 +574,7 @@ let run_exp = function() {
     }
 
     // Test Period: alternate study and test for the final 75 trials:
-    for (let i = 0; i < 45; i++) {
+    for (let i = 0; i < 34; i++) {
 
       // Grab two words to be studied in the right order
       let one = study_order1.shift();
@@ -615,6 +646,17 @@ let run_exp = function() {
      ****************************** Block 2 Begins ******************************************
     ****************************************************************************************/
 
+    // Warning event
+    let warning_two = {
+        type: "html-keyboard-response",
+        stimulus: "<p>Block 2 will last approximately 10 - 15 minutes." +
+                "<p>Please make sure you will not need to leave during that duration before starting.<p>" +
+                "<p>To begin <Strong>Block 2</Strong>, press the Space Bar.</p>",
+        choices: [' '],
+        post_trial_gap: 200
+    };
+    timeline.push(warning_two);
+
     // Block 2 Label Warning
     let block_two = {
         type: "html-keyboard-response",
@@ -626,7 +668,7 @@ let run_exp = function() {
     timeline.push(block_two);
 
     //First 6 are study cards, then rest alternate
-    for (let i = 0; i < 19; i++) {
+    for (let i = 0; i < 10; i++) {
 
         // Grab two words to be studied in the right order
         let one = study_order2.shift();
@@ -653,7 +695,7 @@ let run_exp = function() {
     }
 
     // Test Period: alternate study and test for the final 75 trials:
-    for (let i = 0; i < 45; i++) {
+    for (let i = 0; i < 34; i++) {
 
       // Grab two words to be studied in the right order
       let one = study_order2.shift();
@@ -724,6 +766,17 @@ let run_exp = function() {
     /****************************************************************************************
      ****************************** Block 3 Begins ******************************************
     ****************************************************************************************/
+    /**
+    // Warning event
+    let warning_three = {
+        type: "html-keyboard-response",
+        stimulus: "<p>Block 3 will last approximately 10 - 15 minutes." +
+                "<p>Please make sure you will not need to leave during that duration before starting.<p>" +
+                "<p>To begin <Strong>Block 3</Strong>, press the Space Bar.</p>",
+        choices: [' '],
+        post_trial_gap: 200
+    };
+    timeline.push(warning_three);
 
     // Block 3 Label Warning
     let block_three = {
@@ -736,7 +789,7 @@ let run_exp = function() {
     timeline.push(block_three);
 
     //First 6 are study cards, then rest alternate
-    for (let i = 0; i < 19; i++) {
+    for (let i = 0; i < 10; i++) {
 
         // Grab two words to be studied in the right order
         let one = study_order3.shift();
@@ -763,7 +816,7 @@ let run_exp = function() {
     }
 
     // Test Period: alternate study and test for the final 75 trials:
-    for (let i = 0; i < 45; i++) {
+    for (let i = 0; i < 34; i++) {
 
       // Grab two words to be studied in the right order
         let one = study_order3.shift();
@@ -830,12 +883,24 @@ let run_exp = function() {
         timeline.push(test_question_trial);
 
     }
-
+    **/
     /****************************************************************************************
      ****************************** Block 4 Begins ******************************************
     ****************************************************************************************/
+    /**
 
-    // Block 1 Label Warning
+    // Warning event
+    let warning_four = {
+        type: "html-keyboard-response",
+        stimulus: "<p>Block 4 will last approximately 10 - 15 minutes." +
+                "<p>Please make sure you will not need to leave during that duration before starting.<p>" +
+                "<p>To begin <Strong>Block 4</Strong>, press the Space Bar.</p>",
+        choices: [' '],
+        post_trial_gap: 200
+    };
+    timeline.push(warning_four);
+
+    // Block 4 Label Warning
     let block_four = {
         type: "html-keyboard-response",
         stimulus: "<p>Block 4 will begin in 5 seconds.</p>",
@@ -845,8 +910,8 @@ let run_exp = function() {
     };
     timeline.push(block_four);
 
-    //First 6 are study cards, then rest alternate
-    for (let i = 0; i < 19; i++) {
+    //First 11 are study cards, then rest alternate
+    for (let i = 0; i < 10; i++) {
 
         // Grab two words to be studied in the right order
         let one = study_order4.shift();
@@ -872,8 +937,8 @@ let run_exp = function() {
         timeline.push(study_trial);
     }
 
-    // Test Period: alternate study and test for the final 75 trials:
-    for (let i = 0; i < 45; i++) {
+    // Test Period: alternate study and test for the final 34 trials:
+    for (let i = 0; i < 34; i++) {
 
       // Grab two words to be studied in the right order
       let one = study_order4.shift();
@@ -940,7 +1005,7 @@ let run_exp = function() {
       timeline.push(test_question_trial);
 
     }
-
+    **/
     /****************************************************************************************
      ******************************* Final Questions ****************************************
     ****************************************************************************************/

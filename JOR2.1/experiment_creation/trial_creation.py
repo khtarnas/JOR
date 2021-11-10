@@ -2,7 +2,8 @@ import sys
 import os
 
 # Open a txt file in writing mode
-file = open("blah.txt","w")
+my_file = 'newest.txt'
+file = open(my_file,"w")
 
 all_test_orders = []
 all_study_orders = []
@@ -10,7 +11,7 @@ all_correct_sides = []
 all_comparison_type_orders = []
 all_ordered_comparison_orders = []
 
-num = 2 #Maxes out at 22 (afterwards it runs indefinitely) -- just manually combined 5 of size 20
+num = 100
 
 for _ in range(num):
     if 'exp_design' in sys.modules:   # If the file is already in the cache (already been called)
@@ -75,6 +76,5 @@ for i in range(num):
 file.close()
 
 # Change file extension to js
-my_file = 'blah.txt'
 base = os.path.splitext(my_file)[0]
 os.rename(my_file, base + '.js')
