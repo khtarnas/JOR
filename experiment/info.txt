@@ -1,0 +1,3 @@
+There likely is an error in the V2.1.1 code that caused the experiment to be incorrect and thereby the analyses. This needs to be corrected before any further work can be done.
+
+Note: All variations of V2.2 use the same format (and therefore the same creation code as V2.1.1)
