@@ -1,0 +1,1 @@
+Note: The database url is not present in these files in order to create greater privacy for participants. For individuals in CML, please contact someone familiar with running MTurk experiments. Otherwise, these are merely demonstrative.

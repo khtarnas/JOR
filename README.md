@@ -1,11 +1,10 @@
 # **Project Description**
 
-A project done for my work in the Computational Memory Lab in the summer of 2021. 
-Every version _base_ exists in this repository. 
-All folders are overly simplistic versions of what is actually released. 
-This is because much of the code in the file project was adapted from legacy lab code. 
-A lot of smaller edits (like going between version 1.0 and 1.1 were also only worked into the repositories hosted on the server from which the code was deployed. 
-Nevertheless, you can see some the code used to create the structure of the experiment (in "experiment_creation" within each version folder), the code used to create the runnable experiment ("JOR.html" or "Psiturk_Compatible") and some of the first analyses I wrote to analyze data that I got (in "analysis" or "test_analysis").
+A project in the Computational Memory Lab at the University of Pennsylvania run between summer 2021 and early 2023.
+
+The code for each experiment version's creation, experiment code and its analysis exists in this repository. The code is separated into analysis and experiment creation stages (reflected in the directory of the repo).
+
+All folders are overly simplistic versions of what is actually released. This is because much of the code actually run on Psiturk servers was adapted from legacy lab code. The complete, runnable code can be found in pennmem/MTurk_Experiments for eA lot of smaller edits (like going between version 1.0 and 1.1 were also only worked into the repositories hosted on the server from which the code was deployed. Nevertheless, you can see some the code used to create the structure of the experiment (in "experiment_creation" within each version folder), the code used to create the runnable experiment ("JOR.html" or "Psiturk_Compatible") and some of the first analyses I wrote to analyze data that I got (in "analysis" or "test_analysis").
 
 ## Experiment Description
 
